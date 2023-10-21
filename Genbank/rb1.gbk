@@ -1,0 +1,657 @@
+LOCUS       NM_000321               4768 bp    mRNA    linear   PRI 17-AUG-2022
+DEFINITION  Homo sapiens RB transcriptional corepressor 1 (RB1), transcript
+            variant 1, mRNA.
+ACCESSION   NM_000321
+VERSION     NM_000321.3
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 4768)
+  AUTHORS   Vincent A, Natarajan V, Khetan V, Krishnakumar S and Parameswaran
+            S.
+  TITLE     Retinoblastoma patient-derived stem cells-an in vivo model to study
+            the role of RB1 in adipogenesis
+  JOURNAL   Histochem Cell Biol 158 (2), 181-192 (2022)
+   PUBMED   35445864
+  REMARK    GeneRIF: Retinoblastoma patient-derived stem cells-an in vivo model
+            to study the role of RB1 in adipogenesis.
+REFERENCE   2  (bases 1 to 4768)
+  AUTHORS   Chand V, Liao X, Guzman G, Benevolenskaya E and Raychaudhuri P.
+  TITLE     Hepatocellular carcinoma evades RB1-induced senescence by
+            activating the FOXM1-FOXO1 axis
+  JOURNAL   Oncogene 41 (30), 3778-3790 (2022)
+   PUBMED   35761036
+  REMARK    GeneRIF: Hepatocellular carcinoma evades RB1-induced senescence by
+            activating the FOXM1-FOXO1 axis.
+REFERENCE   3  (bases 1 to 4768)
+  AUTHORS   Ince O, Yildiz H, Kisbet T, Erturk SM and Onder H.
+  TITLE     Classification of retinoblastoma-1 gene mutation with machine
+            learning-based models in bladder cancer
+  JOURNAL   Heliyon 8 (4), e09311 (2022)
+   PUBMED   35520623
+  REMARK    Publication Status: Online-Only
+REFERENCE   4  (bases 1 to 4768)
+  AUTHORS   Tu J, Huo Z, Yu Y, Zhu D, Xu A, Huang MF, Hu R, Wang R, Gingold JA,
+            Chen YH, Tsai KL, Forcioli-Conti NR, Huang SXL, Webb TR, Su J,
+            Bazer DA, Jia P, Yustein JT, Wang LL, Hung MC, Zhao Z, Huff CD,
+            Shen J, Zhao R and Lee DF.
+  TITLE     Hereditary retinoblastoma iPSC model reveals aberrant spliceosome
+            function driving bone malignancies
+  JOURNAL   Proc Natl Acad Sci U S A 119 (16), e2117857119 (2022)
+   PUBMED   35412907
+REFERENCE   5  (bases 1 to 4768)
+  AUTHORS   Flores M and Goodrich DW.
+  TITLE     Retinoblastoma Protein Paralogs and Tumor Suppression
+  JOURNAL   Front Genet 13, 818719 (2022)
+   PUBMED   35368709
+  REMARK    Review article
+            Publication Status: Online-Only
+REFERENCE   6  (bases 1 to 4768)
+  AUTHORS   Lohmann,D.R. and Gallie,B.L.
+  TITLE     Retinoblastoma
+  JOURNAL   (in) Adam MP, Everman DB, Mirzaa GM, Pagon RA, Wallace SE, Bean
+            LJH, Gripp KW and Amemiya A (Eds.);
+            GENEREVIEWS((R));
+            (1993)
+   PUBMED   20301625
+REFERENCE   7  (bases 1 to 4768)
+  AUTHORS   Dyson N, Guida P, Munger K and Harlow E.
+  TITLE     Homologous sequences in adenovirus E1A and human papillomavirus E7
+            proteins mediate interaction with the same set of cellular proteins
+  JOURNAL   J Virol 66 (12), 6893-6902 (1992)
+   PUBMED   1331501
+REFERENCE   8  (bases 1 to 4768)
+  AUTHORS   Huang S, Shin E, Sheppard KA, Chokroverty L, Shan B, Qian YW, Lee
+            EY and Yee AS.
+  TITLE     The retinoblastoma protein region required for interaction with the
+            E2F transcription factor includes the T/E1A binding and
+            carboxy-terminal sequences
+  JOURNAL   DNA Cell Biol 11 (7), 539-548 (1992)
+   PUBMED   1388726
+REFERENCE   9  (bases 1 to 4768)
+  AUTHORS   Onadim Z, Hogg A, Baird PN and Cowell JK.
+  TITLE     Oncogenic point mutations in exon 20 of the RB1 gene in families
+            showing incomplete penetrance and mild expression of the
+            retinoblastoma phenotype
+  JOURNAL   Proc Natl Acad Sci U S A 89 (13), 6177-6181 (1992)
+   PUBMED   1352883
+REFERENCE   10 (bases 1 to 4768)
+  AUTHORS   Hogg A, Onadim Z, Baird PN and Cowell JK.
+  TITLE     Detection of heterozygous mutations in the RB1 gene in
+            retinoblastoma patients using single-strand conformation
+            polymorphism analysis and polymerase chain reaction sequencing
+  JOURNAL   Oncogene 7 (7), 1445-1451 (1992)
+   PUBMED   1352398
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AL392048.9, BC040540.1 and
+            L41870.1.
+            On Feb 26, 2020 this sequence version replaced NM_000321.2.
+            
+            Summary: The protein encoded by this gene is a negative regulator
+            of the cell cycle and was the first tumor suppressor gene found.
+            The encoded protein also stabilizes constitutive heterochromatin to
+            maintain the overall chromatin structure. The active,
+            hypophosphorylated form of the protein binds transcription factor
+            E2F1. Defects in this gene are a cause of childhood cancer
+            retinoblastoma (RB), bladder cancer, and osteogenic sarcoma.
+            [provided by RefSeq, Jul 2008].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: BC040540.1, L41870.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1965299, SAMEA1966682
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000267163.6/ ENSP00000267163.4
+            RefSeq Select criteria :: based on manual assertion, conservation,
+                                      expression, longest protein
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-1                 AL392048.9         15309-15309
+            2-4765              BC040540.1         2-4765
+            4766-4768           L41870.1           4741-4743
+FEATURES             Location/Qualifiers
+     source          1..4768
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="13"
+                     /map="13q14.2"
+     gene            1..4768
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /note="RB transcriptional corepressor 1"
+                     /db_xref="GeneID:5925"
+                     /db_xref="HGNC:HGNC:9884"
+                     /db_xref="MIM:614041"
+     exon            1..299
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    61..63
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /note="upstream in-frame stop codon"
+     CDS             163..2949
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /note="isoform 1 is encoded by transcript variant 1;
+                     retinoblastoma-associated protein;
+                     prepro-retinoblastoma-associated protein; protein
+                     phosphatase 1, regulatory subunit 130; retinoblastoma
+                     suspectibility protein; retinoblastoma 1"
+                     /codon_start=1
+                     /product="retinoblastoma-associated protein isoform 1"
+                     /protein_id="NP_000312.2"
+                     /db_xref="CCDS:CCDS31973.1"
+                     /db_xref="GeneID:5925"
+                     /db_xref="HGNC:HGNC:9884"
+                     /db_xref="MIM:614041"
+                     /translation="MPPKTPRKTAATAAAAAAEPPAPPPPPPPEEDPEQDSGPEDLPL
+                     VRLEFEETEEPDFTALCQKLKIPDHVRERAWLTWEKVSSVDGVLGGYIQKKKELWGIC
+                     IFIAAVDLDEMSFTFTELQKNIEISVHKFFNLLKEIDTSTKVDNAMSRLLKKYDVLFA
+                     LFSKLERTCELIYLTQPSSSISTEINSALVLKVSWITFLLAKGEVLQMEDDLVISFQL
+                     MLCVLDYFIKLSPPMLLKEPYKTAVIPINGSPRTPRRGQNRSARIAKQLENDTRIIEV
+                     LCKEHECNIDEVKNVYFKNFIPFMNSLGLVTSNGLPEVENLSKRYEEIYLKNKDLDAR
+                     LFLDHDKTLQTDSIDSFETQRTPRKSNLDEEVNVIPPHTPVRTVMNTIQQLMMILNSA
+                     SDQPSENLISYFNNCTVNPKESILKRVKDIGYIFKEKFAKAVGQGCVEIGSQRYKLGV
+                     RLYYRVMESMLKSEEERLSIQNFSKLLNDNIFHMSLLACALEVVMATYSRSTSQNLDS
+                     GTDLSFPWILNVLNLKAFDFYKVIESFIKAEGNLTREMIKHLERCEHRIMESLAWLSD
+                     SPLFDLIKQSKDREGPTDHLESACPLNLPLQNNHTAADMYLSPVRSPKKKGSTTRVNS
+                     TANAETQATSAFQTQKPLKSTSLSLFYKKVYRLAYLRLNTLCERLLSEHPELEHIIWT
+                     LFQHTLQNEYELMRDRHLDQIMMCSMYGICKVKNIDLKFKIIVTAYKDLPHAVQETFK
+                     RVLIKEEEYDSIIVFYNSVFMQRLKTNILQYASTRPPTLSPIPHIPRSPYKFPSSPLR
+                     IPGGNIYISPLKSPYKISEGLPTPTKMTPRSRILVSIGESFGTSEKFQKINQMVCNSD
+                     RVLKRSAEGSNPPKPLKKLRFDIEGSDEADGSKHLPGESKFQQKLAEMTSTRTRMQKQ
+                     KMNDSMDTSNKEEK"
+     misc_feature    163..288
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /note="propagated from UniProtKB/Swiss-Prot (P06400.2);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    166..168
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /note="N,N-dimethylproline.
+                     /evidence=ECO:0000250|UniProtKB:P13405; propagated from
+                     UniProtKB/Swiss-Prot (P06400.2); methylation site"
+     misc_feature    271..273
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:18669648,
+                     ECO:0007744|PubMed:19690332, ECO:0007744|PubMed:24275569;
+                     propagated from UniProtKB/Swiss-Prot (P06400.2);
+                     phosphorylation site"
+     misc_feature    907..909
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /note="Phosphoserine, by CDK1.
+                     /evidence=ECO:0000269|PubMed:1756735,
+                     ECO:0007744|PubMed:18220336, ECO:0007744|PubMed:18669648,
+                     ECO:0007744|PubMed:19690332, ECO:0007744|PubMed:21406692,
+                     ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P06400.2); phosphorylation site"
+     misc_feature    916..918
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /note="Phosphothreonine, by CDK1.
+                     /evidence=ECO:0000269|PubMed:1756735,
+                     ECO:0007744|PubMed:18220336, ECO:0007744|PubMed:18669648,
+                     ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P06400.2); phosphorylation site"
+     misc_feature    1228..1230
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0007744|PubMed:18220336,
+                     ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P06400.2); phosphorylation site"
+     misc_feature    1279..2475
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /note="propagated from UniProtKB/Swiss-Prot (P06400.2);
+                     Region: Pocket, binds T and E1A"
+     misc_feature    1279..1899
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /note="propagated from UniProtKB/Swiss-Prot (P06400.2);
+                     Region: Domain A"
+     misc_feature    1279..1281
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /note="Phosphothreonine, by CDK1.
+                     /evidence=ECO:0000269|PubMed:1756735,
+                     ECO:0007744|PubMed:19690332, ECO:0007744|PubMed:23186163;
+                     propagated from UniProtKB/Swiss-Prot (P06400.2);
+                     phosphorylation site"
+     misc_feature    1861..1863
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /note="Phosphoserine, by CDK2.
+                     /evidence=ECO:0000269|PubMed:10499802; propagated from
+                     UniProtKB/Swiss-Prot (P06400.2); phosphorylation site"
+     misc_feature    1900..2079
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /note="propagated from UniProtKB/Swiss-Prot (P06400.2);
+                     Region: Spacer"
+     misc_feature    1984..1986
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:P13405; propagated from
+                     UniProtKB/Swiss-Prot (P06400.2); phosphorylation site"
+     misc_feature    1990..2058
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /note="propagated from UniProtKB/Swiss-Prot (P06400.2);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    1996..1998
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /note="Phosphoserine, by CHEK2 and CHEK1.
+                     /evidence=ECO:0000269|PubMed:17380128,
+                     ECO:0007744|PubMed:18669648; propagated from
+                     UniProtKB/Swiss-Prot (P06400.2); phosphorylation site"
+     misc_feature    2032..2034
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P06400.2); phosphorylation site"
+     misc_feature    2080..2475
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /note="propagated from UniProtKB/Swiss-Prot (P06400.2);
+                     Region: Domain B"
+     misc_feature    2449..2946
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /note="propagated from UniProtKB/Swiss-Prot (P06400.2);
+                     Region: Interaction with LIMD1.
+                     /evidence=ECO:0000269|PubMed:15542589"
+     misc_feature    2473..2946
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /note="propagated from UniProtKB/Swiss-Prot (P06400.2);
+                     Region: Domain C, mediates interaction with E4F1.
+                     /evidence=ECO:0000269|PubMed:10869426"
+     misc_feature    2500..2502
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P06400.2); phosphorylation site"
+     misc_feature    2524..2526
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P06400.2); phosphorylation site"
+     misc_feature    2545..2547
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P06400.2); phosphorylation site"
+     misc_feature    2581..2583
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /note="Phosphoserine, by CDK1 and CDK3.
+                     /evidence=ECO:0000269|PubMed:15084261,
+                     ECO:0000269|PubMed:1756735, ECO:0007744|PubMed:18669648,
+                     ECO:0007744|PubMed:19690332, ECO:0007744|PubMed:23186163;
+                     propagated from UniProtKB/Swiss-Prot (P06400.2);
+                     phosphorylation site"
+     misc_feature    2590..2592
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /note="N6-methyllysine, by SMYD2.
+                     /evidence=ECO:0000269|PubMed:22787429; propagated from
+                     UniProtKB/Swiss-Prot (P06400.2); methylation site"
+     misc_feature    2593..2595
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /note="Phosphoserine, by CDK1 and CDK3.
+                     /evidence=ECO:0000269|PubMed:15084261,
+                     ECO:0000269|PubMed:1756735, ECO:0007744|PubMed:18669648,
+                     ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P06400.2); phosphorylation site"
+     misc_feature    2623..2625
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /note="Phosphothreonine, by CDK6.
+                     /evidence=ECO:0000269|PubMed:15809340,
+                     ECO:0000269|PubMed:16360038, ECO:0007744|PubMed:20068231,
+                     ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P06400.2); phosphorylation site"
+     misc_feature    2629..2631
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0007744|PubMed:18669648,
+                     ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P06400.2); phosphorylation site"
+     misc_feature    2638..2640
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /note="Phosphothreonine, by CDK4.
+                     /evidence=ECO:0000269|PubMed:15809340,
+                     ECO:0000269|PubMed:16360038, ECO:0007744|PubMed:18669648,
+                     ECO:0007744|PubMed:20068231, ECO:0007744|PubMed:23186163;
+                     propagated from UniProtKB/Swiss-Prot (P06400.2);
+                     phosphorylation site"
+     misc_feature    2683..2685
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0007744|PubMed:19690332; propagated from
+                     UniProtKB/Swiss-Prot (P06400.2); phosphorylation site"
+     misc_feature    2725..2727
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P06400.2); phosphorylation site"
+     misc_feature    2740..2946
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /note="propagated from UniProtKB/Swiss-Prot (P06400.2);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    2740..2790
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /note="propagated from UniProtKB/Swiss-Prot (P06400.2);
+                     Region: Bipartite nuclear localization signal.
+                     /evidence=ECO:0000250|UniProtKB:P13405"
+     misc_feature    2740..2742
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /note="N6-methyllysine, by SMYD2.
+                     /evidence=ECO:0000269|PubMed:20870719; propagated from
+                     UniProtKB/Swiss-Prot (P06400.2); methylation site"
+     misc_feature    2779..2781
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /note="N6-acetyllysine, by PCAF.
+                     /evidence=ECO:0000269|PubMed:20940255; propagated from
+                     UniProtKB/Swiss-Prot (P06400.2); acetylation site"
+     misc_feature    2782..2784
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /note="N6-acetyllysine, by PCAF.
+                     /evidence=ECO:0000269|PubMed:20940255; propagated from
+                     UniProtKB/Swiss-Prot (P06400.2); acetylation site"
+     exon            300..426
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            427..542
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            543..662
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            663..701
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            702..769
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            770..880
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            881..1023
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1024..1101
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1102..1211
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1212..1289
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1290..1377
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1378..1494
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1495..1551
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1552..1583
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1584..1660
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1661..1857
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1858..1976
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1977..2122
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2123..2268
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2269..2373
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2374..2487
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2488..2651
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2652..2682
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2683..2825
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2826..2875
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2876..4768
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      4743..4748
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /note="hexamer: AATAAA"
+     polyA_site      4768
+                     /gene="RB1"
+                     /gene_synonym="OSRC; p105-Rb; p110-RB1; pp110; PPP1R130;
+                     pRb; RB"
+                     /note="major polyA site"
+ORIGIN      
+        1 agttgccggg cgggggaggg cgcgtccggt ttttctcagg ggacgttgaa attatttttg
+       61 taacgggagt cgggagagga cggggcgtgc cccgacgtgc gcgcgcgtcg tcctccccgg
+      121 cgctcctcca cagctcgctg gctcccgccg cggaaaggcg tcatgccgcc caaaaccccc
+      181 cgaaaaacgg ccgccaccgc cgccgctgcc gccgcggaac ccccggcacc gccgccgccg
+      241 ccccctcctg aggaggaccc agagcaggac agcggcccgg aggacctgcc tctcgtcagg
+      301 cttgagtttg aagaaacaga agaacctgat tttactgcat tatgtcagaa attaaagata
+      361 ccagatcatg tcagagagag agcttggtta acttgggaga aagtttcatc tgtggatgga
+      421 gtattgggag gttatattca aaagaaaaag gaactgtggg gaatctgtat ctttattgca
+      481 gcagttgacc tagatgagat gtcgttcact tttactgagc tacagaaaaa catagaaatc
+      541 agtgtccata aattctttaa cttactaaaa gaaattgata ccagtaccaa agttgataat
+      601 gctatgtcaa gactgttgaa gaagtatgat gtattgtttg cactcttcag caaattggaa
+      661 aggacatgtg aacttatata tttgacacaa cccagcagtt cgatatctac tgaaataaat
+      721 tctgcattgg tgctaaaagt ttcttggatc acatttttat tagctaaagg ggaagtatta
+      781 caaatggaag atgatctggt gatttcattt cagttaatgc tatgtgtcct tgactatttt
+      841 attaaactct cacctcccat gttgctcaaa gaaccatata aaacagctgt tatacccatt
+      901 aatggttcac ctcgaacacc caggcgaggt cagaacagga gtgcacggat agcaaaacaa
+      961 ctagaaaatg atacaagaat tattgaagtt ctctgtaaag aacatgaatg taatatagat
+     1021 gaggtgaaaa atgtttattt caaaaatttt atacctttta tgaattctct tggacttgta
+     1081 acatctaatg gacttccaga ggttgaaaat ctttctaaac gatacgaaga aatttatctt
+     1141 aaaaataaag atctagatgc aagattattt ttggatcatg ataaaactct tcagactgat
+     1201 tctatagaca gttttgaaac acagagaaca ccacgaaaaa gtaaccttga tgaagaggtg
+     1261 aatgtaattc ctccacacac tccagttagg actgttatga acactatcca acaattaatg
+     1321 atgattttaa attcagcaag tgatcaacct tcagaaaatc tgatttccta ttttaacaac
+     1381 tgcacagtga atccaaaaga aagtatactg aaaagagtga aggatatagg atacatcttt
+     1441 aaagagaaat ttgctaaagc tgtgggacag ggttgtgtcg aaattggatc acagcgatac
+     1501 aaacttggag ttcgcttgta ttaccgagta atggaatcca tgcttaaatc agaagaagaa
+     1561 cgattatcca ttcaaaattt tagcaaactt ctgaatgaca acatttttca tatgtcttta
+     1621 ttggcgtgcg ctcttgaggt tgtaatggcc acatatagca gaagtacatc tcagaatctt
+     1681 gattctggaa cagatttgtc tttcccatgg attctgaatg tgcttaattt aaaagccttt
+     1741 gatttttaca aagtgatcga aagttttatc aaagcagaag gcaacttgac aagagaaatg
+     1801 ataaaacatt tagaacgatg tgaacatcga atcatggaat cccttgcatg gctctcagat
+     1861 tcacctttat ttgatcttat taaacaatca aaggaccgag aaggaccaac tgatcacctt
+     1921 gaatctgctt gtcctcttaa tcttcctctc cagaataatc acactgcagc agatatgtat
+     1981 ctttctcctg taagatctcc aaagaaaaaa ggttcaacta cgcgtgtaaa ttctactgca
+     2041 aatgcagaga cacaagcaac ctcagccttc cagacccaga agccattgaa atctacctct
+     2101 ctttcactgt tttataaaaa agtgtatcgg ctagcctatc tccggctaaa tacactttgt
+     2161 gaacgccttc tgtctgagca cccagaatta gaacatatca tctggaccct tttccagcac
+     2221 accctgcaga atgagtatga actcatgaga gacaggcatt tggaccaaat tatgatgtgt
+     2281 tccatgtatg gcatatgcaa agtgaagaat atagacctta aattcaaaat cattgtaaca
+     2341 gcatacaagg atcttcctca tgctgttcag gagacattca aacgtgtttt gatcaaagaa
+     2401 gaggagtatg attctattat agtattctat aactcggtct tcatgcagag actgaaaaca
+     2461 aatattttgc agtatgcttc caccaggccc cctaccttgt caccaatacc tcacattcct
+     2521 cgaagccctt acaagtttcc tagttcaccc ttacggattc ctggagggaa catctatatt
+     2581 tcacccctga agagtccata taaaatttca gaaggtctgc caacaccaac aaaaatgact
+     2641 ccaagatcaa gaatcttagt atcaattggt gaatcattcg ggacttctga gaagttccag
+     2701 aaaataaatc agatggtatg taacagcgac cgtgtgctca aaagaagtgc tgaaggaagc
+     2761 aaccctccta aaccactgaa aaaactacgc tttgatattg aaggatcaga tgaagcagat
+     2821 ggaagtaaac atctcccagg agagtccaaa tttcagcaga aactggcaga aatgacttct
+     2881 actcgaacac gaatgcaaaa gcagaaaatg aatgatagca tggatacctc aaacaaggaa
+     2941 gagaaatgag gatctcagga ccttggtgga cactgtgtac acctctggat tcattgtctc
+     3001 tcacagatgt gactgtataa ctttcccagg ttctgtttat ggccacattt aatatcttca
+     3061 gctctttttg tggatataaa atgtgcagat gcaattgttt gggtgattcc taagccactt
+     3121 gaaatgttag tcattgttat ttatacaaga ttgaaaatct tgtgtaaatc ctgccattta
+     3181 aaaagttgta gcagattgtt tcctcttcca aagtaaaatt gctgtgcttt atggatagta
+     3241 agaatggccc tagagtggga gtcctgataa cccaggcctg tctgactact ttgccttctt
+     3301 ttgtagcata taggtgatgt ttgctcttgt ttttattaat ttatatgtat atttttttaa
+     3361 tttaacatga acacccttag aaaatgtgtc ctatctatct tccaaatgca atttgattga
+     3421 ctgcccattc accaaaatta tcctgaactc ttctgcaaaa atggatatta ttagaaatta
+     3481 gaaaaaaatt actaatttta cacattagat tttattttac tattggaatc tgatatactg
+     3541 tgtgcttgtt ttataaaatt ttgcttttaa ttaaataaaa gctggaagca aagtataacc
+     3601 atatgatact atcatactac tgaaacagat ttcatacctc agaatgtaaa agaacttact
+     3661 gattattttc ttcatccaac ttatgttttt aaatgaggat tattgatagt actcttggtt
+     3721 tttataccat tcagatcact gaatttataa agtacccatc tagtacttga aaaagtaaag
+     3781 tgttctgcca gatcttaggt atagaggacc ctaacacagt atatcccaag tgcactttct
+     3841 aatgtttctg ggtcctgaag aattaagata caaattaatt ttactccata aacagactgt
+     3901 taattatagg agccttaatt tttttttcat agagatttgt ctaattgcat ctcaaaatta
+     3961 ttctgccctc cttaatttgg gaaggtttgt gttttctctg gaatggtaca tgtcttccat
+     4021 gtatcttttg aactggcaat tgtctattta tcttttattt ttttaagtca gtatggtcta
+     4081 acactggcat gttcaaagcc acattatttc tagtccaaaa ttacaagtaa tcaagggtca
+     4141 ttatgggtta ggcattaatg tttctatctg attttgtgca aaagcttcaa attaaaacag
+     4201 ctgcattaga aaaagaggcg cttctcccct cccctacacc taaaggtgta tttaaactat
+     4261 cttgtgtgat taacttattt agagatgctg taacttaaaa taggggatat ttaaggtagc
+     4321 ttcagctagc ttttaggaaa atcactttgt ctaactcaga attattttta aaaagaaatc
+     4381 tggtcttgtt agaaaacaaa attttatttt gtgctcattt aagtttcaaa cttactattt
+     4441 tgacagttat tttgataaca atgacactag aaaacttgac tccatttcat cattgtttct
+     4501 gcatgaatat catacaaatc agttagtttt taggtcaagg gcttactatt tctgggtctt
+     4561 ttgctactaa gttcacatta gaattagtgc cagaatttta ggaacttcag agatcgtgta
+     4621 ttgagatttc ttaaataatg cttcagatat tattgcttta ttgctttttt gtattggtta
+     4681 aaactgtaca tttaaaattg ctatgttact attttctaca attaatagtt tgtctatttt
+     4741 aaaataaatt agttgttaag agtcttaa
+//
+
