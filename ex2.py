@@ -38,7 +38,7 @@ def local_blastp(file, args):
         print(f"Saving results in {path}")
         f.write(f">{record.id}\n")
         f.write(seqprot.__str__())
-    command = f'blastp -query {path} -db /Users/florenciachao/TPC-IntroBio/swissprot -outfmt 5 -out blast/{name}.xml'
+    command = f'blastp -query {path} -db /root/bio/swissprot -outfmt 5 -out blast/{name}.xml'
     try:
         os.system(command)
     except Exception as e:

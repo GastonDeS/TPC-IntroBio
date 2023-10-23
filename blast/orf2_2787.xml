@@ -2,9 +2,9 @@
 <!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
 <BlastOutput>
   <BlastOutput_program>blastp</BlastOutput_program>
-  <BlastOutput_version>BLASTP 2.13.0+</BlastOutput_version>
+  <BlastOutput_version>BLASTP 2.14.1+</BlastOutput_version>
   <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
-  <BlastOutput_db>/Users/florenciachao/TPC-IntroBio/swissprot</BlastOutput_db>
+  <BlastOutput_db>/root/bio/swissprot</BlastOutput_db>
   <BlastOutput_query-ID>Query_1</BlastOutput_query-ID>
   <BlastOutput_query-def>2</BlastOutput_query-def>
   <BlastOutput_query-len>928</BlastOutput_query-len>
@@ -409,6 +409,72 @@
 </Hit>
 <Hit>
   <Hit_num>14</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|389149</Hit_id>
+  <Hit_def>Q08999.3 RecName: Full=Retinoblastoma-like protein 2; AltName: Full=130 kDa retinoblastoma-associated protein; Short=p130; AltName: Full=Retinoblastoma-related protein 2; Short=RBR-2; AltName: Full=pRb2 [Homo sapiens]</Hit_def>
+  <Hit_accession>389149</Hit_accession>
+  <Hit_len>1139</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>183.726</Hsp_bit-score>
+      <Hsp_score>465</Hsp_score>
+      <Hsp_evalue>3.35444e-46</Hsp_evalue>
+      <Hsp_query-from>57</Hsp_query-from>
+      <Hsp_query-to>650</Hsp_query-to>
+      <Hsp_hit-from>49</Hsp_hit-from>
+      <Hsp_hit-to>683</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>165</Hsp_identity>
+      <Hsp_positive>280</Hsp_positive>
+      <Hsp_gaps>101</Hsp_gaps>
+      <Hsp_align-len>665</Hsp_align-len>
+      <Hsp_qseq>FTALCQKLKIPDHVRERAWLTWEKVSSVDGVLGGYIQKKKELWGICIFIAAV----------DLDEMSFTFTELQKNIEISVHKFFNLLKEIDTSTKV----DNAMSRLLKKYDVLFALFSKLERTCELIY---------LTQPSSSISTEINSALVLKVSWITFLLAKGEVLQMEDDLVISFQLMLCVLDYFIKLSPPMLLKEPYKTAVIPING----SPRTPRRGQNRSARIAKQLENDTRIIEVLCKEHECNIDEVKNVYFKNFIPFMNSL--------------GLVTSNGLPE-VENLSKRYEEIYLKNKDLDARLFLDHDKTLQTDSID-----------------------SFETQRTPRKSNLDEEVNVI----PPHTPVRTVMNTIQQLMMILNSASDQPSENLISYFNNCTVNPKESILKRVKDIGYIFKEKFA--KAVGQGCVEIGSQRYKLGVRLYYRVMESMLKSEEERLSIQNFSKLLNDNIFHMSLLACALEVVMATYSRSTSQNLDSGTDLSFPWILNVLNLKAFDFYKVIESFIKAEGNLTREMIKHLERCEHRIMESLAWLSDSPLFDLIKQSKDREGPTDHLESACPLNLPLQNNHTAADMYLSPVRSPKKKGSTTRVNSTANAETQATSAFQTQKPLKSTSLSLF</Hsp_qseq>
+      <Hsp_hseq>FDELCSRLNMDEAARAEAWDSYRSMSESYTLEGNDLH-----WLACALYVACRKSVPTVSKGTVEGNYVSLTRILKCSEQSLIEFFNKMKKWEDMANLPPHFRERTERLERNFTVSAVIFKKYEPIFQDIFKYPQEEQPRQQRGRKQRRQPCTVSEIFHFCWVLFIYAKGNFPMISDDLVNSYHLLLCALDLV------------YGNALQCSNRKELVNPNFKGLSEDFHAKDSKPSSDPPCIIEKLCSLHDGLVLEAKGIKEHFWKPYIRKLYEKKLLKGKEENLTGFLEPGNFGESFKAINKAYEEYVLSVGNLDERIFLGEDAEEEIGTLSRCLNAGSGTETAERVQMKNILQQHFDKSKALRISTPLTGVRYIKENSPCVTPVSTATHSLSRLHTMLTGLRNAPSEKLEQILRTCSRDPTQAIANRLKEMFEIYSQHFQPDEDFSNCAKEIASKHFRFAEMLYYKVLESVIEQEQKRLGDMDLSGILEQDAFHRSLLACCLEVVTFSYKPPG----------NFPFITEIFDVPLYHFYKVIEVFIRAEDGLCREVVKHLNQIEEQILDHLAWKPESPLWEKIRDNENRV-PTCE-EVMPPQNLERADEICIAGSPLTPRRVTEVRADTGGLGRSITSPTTLYDRY-SSPPASTTRRRLF</Hsp_hseq>
+      <Hsp_midline>F  LC +L + +  R  AW ++  +S    + G  +      W  C    A            ++    + T + K  E S+ +FFN +K+ +    +         RL + + V   +F K E   + I+           +           + +    W+ F+ AKG    + DDLV S+ L+LC LD              Y  A+   N     +P      ++  A+ +K   +   IIE LC  H+  + E K +    + P++  L              G +      E  + ++K YEE  L   +LD R+FL  D   +  ++                         F+  +  R S     V  I    P  TPV T  +++ +L  +L    + PSE L      C+ +P ++I  R+K++  I+ + F   +       EI S+ ++    LYY+V+ES+++ E++RL   + S +L  + FH SLLAC LEVV  +Y              +FP+I  + ++  + FYKVIE FI+AE  L RE++KHL + E +I++ LAW  +SPL++ I+ +++R  PT   E   P NL   +    A   L+P R  + +  T  +  +  + T     + +  P  +T   LF</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>95.5153</Hsp_bit-score>
+      <Hsp_score>236</Hsp_score>
+      <Hsp_evalue>9.70596e-19</Hsp_evalue>
+      <Hsp_query-from>638</Hsp_query-from>
+      <Hsp_query-to>803</Hsp_query-to>
+      <Hsp_hit-from>827</Hsp_hit-from>
+      <Hsp_hit-to>994</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>61</Hsp_identity>
+      <Hsp_positive>95</Hsp_positive>
+      <Hsp_gaps>14</Hsp_gaps>
+      <Hsp_align-len>174</Hsp_align-len>
+      <Hsp_qseq>TQKPLKSTSLSLFYKKVYRLAYLRLNTLCERL-LSEHPELEHIIWTLFQHTLQNEYELMRDRHLDQIMMCSMYGICKVKNIDLKFKIIVTAYKDLPHAVQETFKRVLIKEEEYDSIIVFYNSVFMQRLKTNILQYASTR--PPTLS-----PIPHIPRSPYKFPSSPLRIPGGN</Hsp_qseq>
+      <Hsp_hseq>SNRPRKTSSLSLFFRKVYHLAAVRLRDLCAKLDISD--ELRKKIWTCFEFSIIQCPELMMDRHLDQLLMCAIYVMAKVTKEDKSFQNIMRCYRTQPQARSQVYRSVLIKGKRKRRNSGSSDSRSHQNSPTELNKDRTSRDSSPVMRSSSTLPVPQ----PSSAPPTPTRLTGAN</Hsp_hseq>
+      <Hsp_midline>+ +P K++SLSLF++KVY LA +RL  LC +L +S+  EL   IWT F+ ++    ELM DRHLDQ++MC++Y + KV   D  F+ I+  Y+  P A  + ++ VLIK +         +S   Q   T + +  ++R   P +      P+P     P   P +P R+ G N</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>3</Hsp_num>
+      <Hsp_bit-score>43.1282</Hsp_bit-score>
+      <Hsp_score>100</Hsp_score>
+      <Hsp_evalue>0.0114122</Hsp_evalue>
+      <Hsp_query-from>744</Hsp_query-from>
+      <Hsp_query-to>869</Hsp_query-to>
+      <Hsp_hit-from>997</Hsp_hit-from>
+      <Hsp_hit-to>1113</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>39</Hsp_identity>
+      <Hsp_positive>67</Hsp_positive>
+      <Hsp_gaps>27</Hsp_gaps>
+      <Hsp_align-len>135</Hsp_align-len>
+      <Hsp_qseq>IKEEEYDSIIVFYNSVFMQRLKTNILQY--ASTRPPTLSPIPHIPRSPYKFPSSPLRIPGGN---IYISPLKSPYKISEGLPTPTKMTPRSRILVSIGESFGTSEKFQKINQMVCNSDRVLKRSA----EGSNPP</Hsp_qseq>
+      <Hsp_hseq>MEEEERGDLIQFYNNIYIKQIKTFAMKYSQANMDAPPLSPYPFV-RT-----GSPRRIQLSQNHPVYISPHKN----------ETMLSPREKIFYYFSNS--PSKRLREINSMIRTGETPTKKRGILLEDGSESP</Hsp_hseq>
+      <Hsp_midline>++EEE   +I FYN+++++++KT  ++Y  A+   P LSP P + R+      SP RI       +YISP K+           T ++PR +I      S   S++ ++IN M+   +   K+      +GS  P</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
   <Hit_id>gnl|BL_ORD_ID|98786</Hit_id>
   <Hit_def>Q64701.3 RecName: Full=Retinoblastoma-like protein 1; AltName: Full=107 kDa retinoblastoma-associated protein; Short=p107; AltName: Full=pRb1 [Mus musculus]</Hit_def>
   <Hit_accession>98786</Hit_accession>
@@ -455,7 +521,7 @@
   </Hit_hsps>
 </Hit>
 <Hit>
-  <Hit_num>15</Hit_num>
+  <Hit_num>16</Hit_num>
   <Hit_id>gnl|BL_ORD_ID|393093</Hit_id>
   <Hit_def>P28749.3 RecName: Full=Retinoblastoma-like protein 1; AltName: Full=107 kDa retinoblastoma-associated protein; Short=p107; AltName: Full=pRb1 [Homo sapiens]</Hit_def>
   <Hit_accession>393093</Hit_accession>
@@ -502,7 +568,7 @@
   </Hit_hsps>
 </Hit>
 <Hit>
-  <Hit_num>16</Hit_num>
+  <Hit_num>17</Hit_num>
   <Hit_id>gnl|BL_ORD_ID|206148</Hit_id>
   <Hit_def>Q64700.3 RecName: Full=Retinoblastoma-like protein 2; AltName: Full=130 kDa retinoblastoma-associated protein; Short=p130; AltName: Full=Retinoblastoma-related protein 2; Short=RBR-2; AltName: Full=pRb2 [Mus musculus]</Hit_def>
   <Hit_accession>206148</Hit_accession>
@@ -568,7 +634,7 @@
   </Hit_hsps>
 </Hit>
 <Hit>
-  <Hit_num>17</Hit_num>
+  <Hit_num>18</Hit_num>
   <Hit_id>gnl|BL_ORD_ID|220754</Hit_id>
   <Hit_def>Q9LKZ3.1 RecName: Full=Retinoblastoma-related protein 1; Short=AtRBR; Short=AtRBR1 [Arabidopsis thaliana]</Hit_def>
   <Hit_accession>220754</Hit_accession>
@@ -596,7 +662,7 @@
   </Hit_hsps>
 </Hit>
 <Hit>
-  <Hit_num>18</Hit_num>
+  <Hit_num>19</Hit_num>
   <Hit_id>gnl|BL_ORD_ID|17553</Hit_id>
   <Hit_def>Q66WV0.1 RecName: Full=Retinoblastoma-related protein 1; Short=NbRBR1 [Nicotiana benthamiana]</Hit_def>
   <Hit_accession>17553</Hit_accession>
@@ -624,7 +690,7 @@
   </Hit_hsps>
 </Hit>
 <Hit>
-  <Hit_num>19</Hit_num>
+  <Hit_num>20</Hit_num>
   <Hit_id>gnl|BL_ORD_ID|423389</Hit_id>
   <Hit_def>O55081.1 RecName: Full=Retinoblastoma-like protein 2; AltName: Full=130 kDa retinoblastoma-associated protein; Short=p130; AltName: Full=PPAR-alpha-interacting complex protein 128; Short=PRIC128; AltName: Full=Retinoblastoma-related protein 2; Short=RBR-2; AltName: Full=pRb2 [Rattus norvegicus]</Hit_def>
   <Hit_accession>423389</Hit_accession>
@@ -690,7 +756,7 @@
   </Hit_hsps>
 </Hit>
 <Hit>
-  <Hit_num>20</Hit_num>
+  <Hit_num>21</Hit_num>
   <Hit_id>gnl|BL_ORD_ID|282712</Hit_id>
   <Hit_def>B1ABR6.1 RecName: Full=Retinoblastoma-related protein [Hieracium piloselloides]</Hit_def>
   <Hit_accession>282712</Hit_accession>
@@ -718,7 +784,7 @@
   </Hit_hsps>
 </Hit>
 <Hit>
-  <Hit_num>21</Hit_num>
+  <Hit_num>22</Hit_num>
   <Hit_id>gnl|BL_ORD_ID|382540</Hit_id>
   <Hit_def>A7P514.1 RecName: Full=Retinoblastoma-related protein [Vitis vinifera]</Hit_def>
   <Hit_accession>382540</Hit_accession>
@@ -746,7 +812,7 @@
   </Hit_hsps>
 </Hit>
 <Hit>
-  <Hit_num>22</Hit_num>
+  <Hit_num>23</Hit_num>
   <Hit_id>gnl|BL_ORD_ID|92525</Hit_id>
   <Hit_def>B1ABS0.1 RecName: Full=Retinoblastoma-related protein [Pilosella officinarum]</Hit_def>
   <Hit_accession>92525</Hit_accession>
@@ -774,7 +840,7 @@
   </Hit_hsps>
 </Hit>
 <Hit>
-  <Hit_num>23</Hit_num>
+  <Hit_num>24</Hit_num>
   <Hit_id>gnl|BL_ORD_ID|165922</Hit_id>
   <Hit_def>Q2ABE5.1 RecName: Full=Retinoblastoma-related protein [Camellia sinensis]</Hit_def>
   <Hit_accession>165922</Hit_accession>
@@ -798,72 +864,6 @@
       <Hsp_qseq>KQLENDTRIIEVLCKEH-----ECNIDEVKNVYFKNFIPFMNSLGLVTSNGLPEVEN-LSKRYEEIYLKNKDLDARLFLDHDKTL------------------QTDSIDS----FETQRTPRKSNLDEEVNVIP-------PHTPVRTVMNTIQQLMMILNSASDQPSENLISYFNNCTVNPKESILKRVKDIGYIFKEKF-AKAVGQGCVEIG------------SQRYKLGVRLYYRVMESMLKSEEERLSIQNFSKLLNDNIFHMSLLACALEVVMATYSRSTSQNLDSGTDLSFPWILNVLNLKAFDFYKVIESFIKAEGNLTREMIKHLERCEHRIMESLAWLSDSPLFDLIKQSK------------------DREGPTDHLESAC---PLNLPLQNNH-----------------------TAADMYLSPVR-------SPKKK----------GSTTRVNSTANAETQATSAFQTQKPLKSTSLSLFYKKVYRLAYLRLNTLCERL-LSEHPELEHIIWTLFQHTLQNEYELMRDRHLDQIMMCSMYGICKVKNIDLKFKIIVTAYKDLPHAVQETFKRVLI----------KEEEYDSIIVFYNSVFMQRLKTNILQYAST--------------------RPPTLSPIPHIP-RSPYKFPSSPLRIPGGNIYISPLKS</Hsp_qseq>
       <Hsp_hseq>KTMEKANDLIEDILKKNRRSASECRSENLENIATDGLIYFED---LLDDTSLPSSLNILGKDYADATRNKGELDERVFVNEEDSLLGPGSLSGGAMNISGAKRKIDSIASPARTITSPLAPYCSPSASHAKAIPCGSNSKMAATPVTTAMTTAKWLRTIISPLPPKPSPELERFLSSCDSDVTTDVIRRAN---IILEAIFPSSGLGEECITGGLQCTSLMDSIWAEQRRLEALKLYYRVLQAMCTAEAQILHANNLTSLLTNERFHRCMLACSAELVLATHKTAT---------MLFPAVLERTGITAFDLSKMIGVSFRLKESLPRELKRHLNSLEERLLESMVWEKGSSMYNSLTVARPALSAETNRLCLLAEPMPSLDAIAMHMNITCGSLPCLPSLQKNEILLGQNGDIQSPKRLCTEYRSVLVERNSFTSPVKDRLLTFNTPKSKLPPPALQSAFASPTRPNPGAGGETCA-----------ETAINVFFSKIVKLGAFRINGMVERLQLSQ--EIREIIFRLFQQILSQRTTLFFNRHIDQIILCCFYGVAKISQLSLTFKEIISTIESNPQCKPQVFRSVFVDWSSARRHGKTGQEHVDIITFYNEIFIPAVKPLLVELAPVGTAQKNRNSETINGTDGQCPGSPKISPFPSLPDMSPKKVSAI------HNVYVSPLRS</Hsp_hseq>
       <Hsp_midline>K +E    +IE + K++     EC  + ++N+     I F +   L+    LP   N L K Y +      +LD R+F++ + +L                  + DSI S      +   P  S        IP         TPV T M T + L  I++    +PS  L  + ++C  +    +++R      I +  F +  +G+ C+  G             QR    ++LYYRV+++M  +E + L   N + LL +  FH  +LAC+ E+V+AT+  +T         + FP +L    + AFD  K+I    + + +L RE+ +HL   E R++ES+ W   S +++ +  ++                    +    H+   C   P    LQ N                           + + SPV+       +PK K           S TR N  A  ET A            T++++F+ K+ +L   R+N + ERL LS+  E+  II+ LFQ  L     L  +RH+DQI++C  YG+ K+  + L FK I++  +  P    + F+ V +            +E+  II FYN +F+  +K  +++ A                        P +SP P +P  SP K  +        N+Y+SPL+S</Hsp_midline>
-    </Hsp>
-  </Hit_hsps>
-</Hit>
-<Hit>
-  <Hit_num>24</Hit_num>
-  <Hit_id>gnl|BL_ORD_ID|389149</Hit_id>
-  <Hit_def>Q08999.3 RecName: Full=Retinoblastoma-like protein 2; AltName: Full=130 kDa retinoblastoma-associated protein; Short=p130; AltName: Full=Retinoblastoma-related protein 2; Short=RBR-2; AltName: Full=pRb2 [Homo sapiens]</Hit_def>
-  <Hit_accession>389149</Hit_accession>
-  <Hit_len>1139</Hit_len>
-  <Hit_hsps>
-    <Hsp>
-      <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>172.94</Hsp_bit-score>
-      <Hsp_score>437</Hsp_score>
-      <Hsp_evalue>7.99928e-43</Hsp_evalue>
-      <Hsp_query-from>37</Hsp_query-from>
-      <Hsp_query-to>650</Hsp_query-to>
-      <Hsp_hit-from>29</Hsp_hit-from>
-      <Hsp_hit-to>683</Hsp_hit-to>
-      <Hsp_query-frame>0</Hsp_query-frame>
-      <Hsp_hit-frame>0</Hsp_hit-frame>
-      <Hsp_identity>167</Hsp_identity>
-      <Hsp_positive>286</Hsp_positive>
-      <Hsp_gaps>113</Hsp_gaps>
-      <Hsp_align-len>691</Hsp_align-len>
-      <Hsp_qseq>SG------PEDLPLVRLEFEETEEPDFTALCQKLKIPDHVRERAWLTWEKVSSVDGVLGGYIQKKKELWGICIFIAAV----------DLDEMSFTFTELQKNIEISVHKFFNLLKEIDTSTKV----DNAMSRLLKKYDVLFALFSKLERTCELIY---------LTQPSSSISTEINSALVLKVSWITFLLAKGEVLQMEDDLVISFQLMLCVLDYFIKLSPPMLLKEPYKTAVIPING----SPRTPRRGQNRSARIAKQLENDTRIIEVLCKEHECNIDEVKNVYFKNFIPFMNSL--------------GLVTSNGLPE-VENLSKRYEEIYLKNKDLDARLFLDHDKTLQTDSID-----------------------SFETQRTPRKSNLDEEVNVI----PPHTPVRTVMNTIQQLMMILNSASDQPSENLISYFNNCTVNPKESILKRVKDIGYIFKEKFA--KAVGQGCVEIGSQRYKLGVRLYYRVMESMLKSEEERLSIQNFSKLLNDNIFHMSLLACALEVVMATYSRSTSQNLDSGTDLSFPWILNVLNLKAFDFYKVIESFIKAEGNLTREMIKHLERCEHRIMESLAWLSDSPLFDLIKQSKDREGPTDHLESACPLNLPLQNNHTAADMYLSPVRSPKKKGSTTRVNSTANAETQATSAFQTQKPLKSTSLSLF</Hsp_qseq>
-      <Hsp_hseq>GEAEDAAPPAESPTPQIQQR------FDELCSRLNMDEAARAEAWDSYRSMSESYTLEGNDLH-----WLACALYVACRKSVPTVSKGTVEGNYVSLTRILKCSEQSLIEFFNKMKKWEDMANLPPHFRERTERLERNFTVSAVIFKKYEPIFQDIFKYPQEEQPRQQRGRKQRRQPCTVSEIFHFCWVLFIYAKGNFPMISDDLVNSYHLLLCALDLV------------YGNALQCSNRKELVNPNFKGLSEDFHAKDSKPSSDPPCIIEKLCSLHDGLVLEAKGIKEHFWKPYIRKLYEKKLLKGKEENLTGFLEPGNFGESFKAINKAYEEYVLSVGNLDERIFLGEDAEEEIGTLSRCLNAGSGTETAERVQMKNILQQHFDKSKALRISTPLTGVRYIKENSPCVTPVSTATHSLSRLHTMLTGLRNAPSEKLEQILRTCSRDPTQAIANRLKEMFEIYSQHFQPDEDFSNCAKEIASKHFRFAEMLYYKVLESVIEQEQKRLGDMDLSGILEQDAFHRSLLACCLEVVTFSYKPPG----------NFPFITEIFDVPLYHFYKVIEVFIRAEDGLCREVVKHLNQIEEQILDHLAWKPESPLWEKIRDNENRV-PTCE-EVMPPQNLERADEICIAGSPLTPRRVTEVRADTGGLGRSITSPTTLYDRY-SSPPASTTRRRLF</Hsp_hseq>
-      <Hsp_midline>        P + P  +++        F  LC +L + +  R  AW ++  +S    + G  +      W  C    A            ++    + T + K  E S+ +FFN +K+ +    +         RL + + V   +F K E   + I+           +           + +    W+ F+ AKG    + DDLV S+ L+LC LD              Y  A+   N     +P      ++  A+ +K   +   IIE LC  H+  + E K +    + P++  L              G +      E  + ++K YEE  L   +LD R+FL  D   +  ++                         F+  +  R S     V  I    P  TPV T  +++ +L  +L    + PSE L      C+ +P ++I  R+K++  I+ + F   +       EI S+ ++    LYY+V+ES+++ E++RL   + S +L  + FH SLLAC LEVV  +Y              +FP+I  + ++  + FYKVIE FI+AE  L RE++KHL + E +I++ LAW  +SPL++ I+ +++R  PT   E   P NL   +    A   L+P R  + +  T  +  +  + T     + +  P  +T   LF</Hsp_midline>
-    </Hsp>
-    <Hsp>
-      <Hsp_num>2</Hsp_num>
-      <Hsp_bit-score>95.5153</Hsp_bit-score>
-      <Hsp_score>236</Hsp_score>
-      <Hsp_evalue>9.70596e-19</Hsp_evalue>
-      <Hsp_query-from>638</Hsp_query-from>
-      <Hsp_query-to>803</Hsp_query-to>
-      <Hsp_hit-from>827</Hsp_hit-from>
-      <Hsp_hit-to>994</Hsp_hit-to>
-      <Hsp_query-frame>0</Hsp_query-frame>
-      <Hsp_hit-frame>0</Hsp_hit-frame>
-      <Hsp_identity>61</Hsp_identity>
-      <Hsp_positive>95</Hsp_positive>
-      <Hsp_gaps>14</Hsp_gaps>
-      <Hsp_align-len>174</Hsp_align-len>
-      <Hsp_qseq>TQKPLKSTSLSLFYKKVYRLAYLRLNTLCERL-LSEHPELEHIIWTLFQHTLQNEYELMRDRHLDQIMMCSMYGICKVKNIDLKFKIIVTAYKDLPHAVQETFKRVLIKEEEYDSIIVFYNSVFMQRLKTNILQYASTR--PPTLS-----PIPHIPRSPYKFPSSPLRIPGGN</Hsp_qseq>
-      <Hsp_hseq>SNRPRKTSSLSLFFRKVYHLAAVRLRDLCAKLDISD--ELRKKIWTCFEFSIIQCPELMMDRHLDQLLMCAIYVMAKVTKEDKSFQNIMRCYRTQPQARSQVYRSVLIKGKRKRRNSGSSDSRSHQNSPTELNKDRTSRDSSPVMRSSSTLPVPQ----PSSAPPTPTRLTGAN</Hsp_hseq>
-      <Hsp_midline>+ +P K++SLSLF++KVY LA +RL  LC +L +S+  EL   IWT F+ ++    ELM DRHLDQ++MC++Y + KV   D  F+ I+  Y+  P A  + ++ VLIK +         +S   Q   T + +  ++R   P +      P+P     P   P +P R+ G N</Hsp_midline>
-    </Hsp>
-    <Hsp>
-      <Hsp_num>3</Hsp_num>
-      <Hsp_bit-score>43.1282</Hsp_bit-score>
-      <Hsp_score>100</Hsp_score>
-      <Hsp_evalue>0.0114122</Hsp_evalue>
-      <Hsp_query-from>744</Hsp_query-from>
-      <Hsp_query-to>869</Hsp_query-to>
-      <Hsp_hit-from>997</Hsp_hit-from>
-      <Hsp_hit-to>1113</Hsp_hit-to>
-      <Hsp_query-frame>0</Hsp_query-frame>
-      <Hsp_hit-frame>0</Hsp_hit-frame>
-      <Hsp_identity>39</Hsp_identity>
-      <Hsp_positive>67</Hsp_positive>
-      <Hsp_gaps>27</Hsp_gaps>
-      <Hsp_align-len>135</Hsp_align-len>
-      <Hsp_qseq>IKEEEYDSIIVFYNSVFMQRLKTNILQY--ASTRPPTLSPIPHIPRSPYKFPSSPLRIPGGN---IYISPLKSPYKISEGLPTPTKMTPRSRILVSIGESFGTSEKFQKINQMVCNSDRVLKRSA----EGSNPP</Hsp_qseq>
-      <Hsp_hseq>MEEEERGDLIQFYNNIYIKQIKTFAMKYSQANMDAPPLSPYPFV-RT-----GSPRRIQLSQNHPVYISPHKN----------ETMLSPREKIFYYFSNS--PSKRLREINSMIRTGETPTKKRGILLEDGSESP</Hsp_hseq>
-      <Hsp_midline>++EEE   +I FYN+++++++KT  ++Y  A+   P LSP P + R+      SP RI       +YISP K+           T ++PR +I      S   S++ ++IN M+   +   K+      +GS  P</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>

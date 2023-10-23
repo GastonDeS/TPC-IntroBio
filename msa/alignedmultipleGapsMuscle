@@ -1,0 +1,533 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+Saimiri          ATGCCGCCCAAAATGCCCCGAAAA------GCCGCCGCCGCCGCTGCCGCCGCGGAACCC
+Macaca           ------------------------------------------------------------
+Galeopterus      ATGCCACCCAAAACCCCCCGAAGAGCGGCC---ACAGCCGCCGCCGCCGCCG---AACCC
+Gorilla          ATGCCGCCCAAAACCCCCCGAAAAACGGCCGCCACCGCCGCCGCTGCCGCCGCGGAACCC
+ORF              ATGCCGCCCAAAACCCCCCGAAAAACGGCCGCCACCGCCGCCGCTGCCGCCGCGGAACCC
+Pan              ATGCCGCCCAAAACCCCCCGAAAAACGGCCGCCACCGCCGCCGCTGCCGCCGCGGAACCC
+Cercocebus       ------------------------------------------------------------
+                                                                             
+
+Saimiri          CCAGCGCCACCGCCTCCGTCTTCTCCTGAGGAGGACCCAGAGCAGGACAGCGGCCCGGAG
+Macaca           ------------------------------------------------------------
+Galeopterus      CCGGCGCCGCCGCCGCCGCCCCCTCCTGAGGAGGACCCGGAGCAAGACAGTGGCCCCGAG
+Gorilla          CCGGCACCGCCGCCGCCGCCCCCTCCTGAGGAGGACCCAGAGCAGGACAGCGGCCCGGAG
+ORF              CCGGCACCGCCGCCGCCGCCCCCTCCTGAGGAGGACCCAGAGCAGGACAGCGGCCCGGAG
+Pan              CCGGCACCGCCGCCGCCGCCCCCTCCTGAGGAGGACCCAGAGCAGGACAGCGGCCCGGAG
+Cercocebus       ------------------------------------------------------------
+                                                                             
+
+Saimiri          GACCTGCCTCTGGTCAGGGTTGAGTTTGAAGAAACTGAAGAACCTGATTTTACTGCGTTA
+Macaca           ------------------------------------------------------------
+Galeopterus      GAGCTGCCTCTGGCCAGGCTTGAGTTTGAAGAAACCGAAGAACCTGATTTTACTACATTA
+Gorilla          GACCTGCCTCTCGTCAGGCTTGAGTTTGAAGAAACAGAAGAACCTGATTTTACTGCATTA
+ORF              GACCTGCCTCTCGTCAGGCTTGAGTTTGAAGAAACAGAAGAACCTGATTTTACTGCATTA
+Pan              GACCTGCCTCTCGTCAGGCTTGAGTTTGAAGAAACAGAAGAACCTGATTTTACTGCGTTA
+Cercocebus       ------------------------------------------------------------
+                                                                             
+
+Saimiri          TGTCAGAGATTAAAGATACCAGATCATGTCAGAGAGAGAGCTTGGTTAACTTGGGAGAAA
+Macaca           ------------------------------------------------------------
+Galeopterus      TGTCAGAAATTAAAGATACCAGATCATGTCAGAGAAAGAGCTTGGTTAACTTGGGAGAAA
+Gorilla          TGTCAGAAATTAAAGATACCAGATCATGTCAGAGAGAGAGCTTGGTTAACTTGGGAGAAA
+ORF              TGTCAGAAATTAAAGATACCAGATCATGTCAGAGAGAGAGCTTGGTTAACTTGGGAGAAA
+Pan              TGTCAGAAATTAAAGATACCAGATCATGTCAGAGAGAGAGCTTGGTTAACTTGGGAGAAA
+Cercocebus       ------------------------------------------------------------
+                                                                             
+
+Saimiri          GTTTCATCTGTGGATGGAGTATTGGGAGGTTATATTCAAAAGAAAAAGGAACTGTGGGGA
+Macaca           -----------------------GGGAGGTTATATTCAAAAGAAAAAAGAACTGTGGGGA
+Galeopterus      GTTTCATCTGTGGATGGAGTATTGGAAGGTTATATTCAAAAGAAAAAGGAACTGTGGGGT
+Gorilla          GTTTCATCTGTGGATGGAGTATTGGGAGGTTATATTCAAAAGAAAAAGGAACTGTGGGGA
+ORF              GTTTCATCTGTGGATGGAGTATTGGGAGGTTATATTCAAAAGAAAAAGGAACTGTGGGGA
+Pan              GTTTCATCTGTGGATGGAGTATTGGGAGGTTATATTCAAAAGAAAAAGGAACTGTGGGGA
+Cercocebus       ------------------------------------------------------------
+                                                                             
+
+Saimiri          ATCTGTATCTTTATTGCAGCAGTTGACCTAGATGAGATGCCGTTCACTTTTACTGAACTA
+Macaca           ATATGTATCTTTATTGCAGCAGTTGACCTAGATGAGATGCCATTCACTTTTACTGAGCTA
+Galeopterus      ATCTGTATCTTTACTGCAGCAGTTGACCTGGATGAGGTGACATTCACTTTTACTGAGCTA
+Gorilla          ATCTGTATCTTTATTGCAGCAGTTGACCTAGATGAGATGTCGTTCACTTTTACTGAGCTA
+ORF              ATCTGTATCTTTATTGCAGCAGTTGACCTAGATGAGATGTCGTTCACTTTTACTGAGCTA
+Pan              ATCTGTATCTTTATTGCAGCAGTTGACCTAGATGAGATGTCGTTCACTTTTACTGAGCTA
+Cercocebus       ------------------------------------------------------------
+                                                                             
+
+Saimiri          CAGAAAATCATAGAAATCAGTGTCTTTAAATTCTTTGACTTATTAAAAGAAATTGATACC
+Macaca           CAGAAAAACATAGAAATCAGTGTCCATAAATTCTTTAACTTACTAAAGGAAATTGATACT
+Galeopterus      CAGAAAAACATAGAAACCAGTGTCTATAAATTCTTTGACTTACTAAAGGAAATTGATACC
+Gorilla          CAGAAAAACATAGAAATCAGTGTCCATAAATTCTTTAACTTACTAAAAGAAATTGATACC
+ORF              CAGAAAAACATAGAAATCAGTGTCCATAAATTCTTTAACTTACTAAAAGAAATTGATACC
+Pan              CAGAAAAACATAGAAATCAGTGTCCATAAATTCTTTAACTTACTAAAAGAAATTGATACC
+Cercocebus       ------------------------------------------------------------
+                                                                             
+
+Saimiri          AGTACCAAAGTTGATAATGCTATGTCAAGACTGTTGAAGAAGTATAATGTATTATTGGCA
+Macaca           AGTACCAAAGTTGATAATGCTATGTCAAGACTATTGAAGAAGTATGATGTATTGTTTGCA
+Galeopterus      AGTACCAAAGTTGATAATGCTATGTCAAGACTGTTGAAGAAGTACAATGTATTGTGTGCA
+Gorilla          AGTACCAAAGTTGATAATGCTATGTCAAGACTGTTGAAGAAGTATGATGTATTGTTTGCA
+ORF              AGTACCAAAGTTGATAATGCTATGTCAAGACTGTTGAAGAAGTATGATGTATTGTTTGCA
+Pan              AGTACCAAAGTTGATAATGCTATGTCAAGACTGTTGAAGAAGTATGATGTATTGTTTGCA
+Cercocebus       ------------------------------------------------------------
+                                                                             
+
+Saimiri          CTCTTCAGCAAATTAGAAAGGACATGTGAACTTATATATTTGACACAACCCAACAGTTCG
+Macaca           CTCTTCAGCAAATTGGAAAGGACATGTGAACTTATATATTTGACACAACCCAGCAGTTCG
+Galeopterus      CTCTATAGCAAATTAGAAAGGACATGTGAACTTATATATTTGACACAACCCAGCAGTTCA
+Gorilla          CTCTTCAGCAAATTGGAAAGGACATGTGAACTTATATATTTGACACAACCCAGCAGTTCG
+ORF              CTCTTCAGCAAATTGGAAAGGACATGTGAACTTATATATTTGACACAACCCAGCAGTTCG
+Pan              CTCTTCAGCAAATTGGAAAGGACATGTGAACTTATATATTTGACACAACCCAGCAGTTCG
+Cercocebus       ------------------------------------------------------------
+                                                                             
+
+Saimiri          ATATCTACTGAGATAAATTCTGCATTGGTGCTAAAAGTTTCTTGGATCACATTTTTATTA
+Macaca           ATATCTACTGAAATAAATTCTACATTGGTGCTAAAAGTTTCTTGGATCACATTTTTATTA
+Galeopterus      ATATCTGCTGAAATAAATTCTGCCTTGGTGCTAAAAGTTTCTTGGATCACATTTTTACTA
+Gorilla          ATATCTACTGAAATAAATTCTGCATTGGTGCTAAAAGTTTCTTGGATCACATTTTTATTA
+ORF              ATATCTACTGAAATAAATTCTGCATTGGTGCTAAAAGTTTCTTGGATCACATTTTTATTA
+Pan              ATATCTACTGAAATAAATTCTGCATTGGTGCTAAAAGTTTCTTGGATCACATTTTTATTA
+Cercocebus       ------------------------------------------------------------
+                                                                             
+
+Saimiri          GCTAAAGGGGAAGTATTACAAATGGAAGATGATCTGGTGATTTCATTTCAGTTAATGCTA
+Macaca           GCTAAAGGGGAAGTATTACAAATGGAAGATGATCTGGTGATTTCATTTCAGTTAATGCTA
+Galeopterus      GCTAAAGGGGATGTATTACAAATGGAAGATGATCTGGTGATTTCATTTCAGTTAATGCTG
+Gorilla          GCTAAAGGGGAAGTATTACAAATGGAAGATGATCTGGTGATTTCATTTCAGTTAATGCTA
+ORF              GCTAAAGGGGAAGTATTACAAATGGAAGATGATCTGGTGATTTCATTTCAGTTAATGCTA
+Pan              GCTAAAGGGGAAGTATTACAAATGGAAGATGATCTGGTGATTTCATTTCAGTTAATGCTA
+Cercocebus       ------------------------------------------------------------
+                                                                             
+
+Saimiri          TGTGTCCTTGACTATTTTATTAAACTCTCACCTCCTGTGTTGCTCAAAGAACCATATAAA
+Macaca           TGTGTCCTTGACTATTTTATTAAACTCTCACCTCCTGTGTTGCTCAAAGAACCATATAAA
+Galeopterus      TGTGTTCTTGACTATTTTATCAAACTTTCACCTCCTGCATTGCTCAAAGAACCATACAAA
+Gorilla          TGTGTCCTTGACTATTTTATTAAACTCTCACCTCCCATGTTGCTCAAAGAACCATATAAA
+ORF              TGTGTCCTTGACTATTTTATTAAACTCTCACCTCCCATGTTGCTCAAAGAACCATATAAA
+Pan              TGTGTCCTTGACTATTTTATTAAACTCTCACCTCCCATGTTGCTCAAAGAACCATATAAA
+Cercocebus       ------------------------------------ATGCCGCCCAAAACCCCCCGAAAA
+                                                          ** ****   **    ***
+
+Saimiri          ACAGCTGTTATACCCGTTAATGGTTCACCTCGAACACCCAGGCGAGGTCAGAACAGGAGT
+Macaca           ACAGCTGTTATACCCATTAATGGTTCACCTCGAACACCCAGGCGAGGCCAGAACAGGAGT
+Galeopterus      ACAGCTGTAATACCCATTAATGGTTCACCTCGAACACCCAGGCGAGGTCAGAACAGGAGT
+Gorilla          ACAGCTGTTATACCCATTAATGGTTCACCTCGAACACCCAGGCGAGGTCAGAACAGGAGT
+ORF              ACAGCTGTTATACCCATTAATGGTTCACCTCGAACACCCAGGCGAGGTCAGAACAGGAGT
+Pan              ACAGCTGTTATACCCATTAATGGTTCACCTCGAACACCCAGGCGAGGTCAGAACAGGAGT
+Cercocebus       ACGACCGCC---GCCGCCGCTG--CCGC---GGAACCCCCGGCACCGCCGCCGCCACCCC
+                 **  * *      **     **   * *   * *  *** ***   * *    *      
+
+Saimiri          GCACGGATAGCCAAACAACTAGAAAATGATACAAGAATTATTGAAATTCTCTGTAAAGAA
+Macaca           GCACGGATAGCAAAACAACTAGAAAATGATACAAGAATTATTGAAGTTCTCTGTAAAGAA
+Galeopterus      GCACGGATAGCAAAACAACTAGAAAATGATACAAGAATTATTGAAGTTCTCTGTAAAGAA
+Gorilla          GCACGGATAGCAAAACAACTAGAAAATGATACAAGAATTATTGAAGTTCTCTGTAAAGAA
+ORF              GCACGGATAGCAAAACAACTAGAAAATGATACAAGAATTATTGAAGTTCTCTGTAAAGAA
+Pan              GCACGGATAGCAAAACAACTAGAAAATGATACAAGAATTATTGAAGTTCTCTGTAAAGAA
+Cercocebus       CTCCTGA----GGAGGACCCAGAGCAGGACA-----------GCGGTCC-----GGAGGA
+                    * **      *  * * ***  * ** *           *   * *       ** *
+
+Saimiri          CATGAATGTAATATAGATGAGGTGAAAAATGTTTATTTAAAAAATTTTATACCTTTTATG
+Macaca           CATGAATGTAATATAGATGAGGTGAAAAATGTTTATTTCAAAAATTTTATACCTTTTATG
+Galeopterus      CATGAATGTAATATGGATGAGGTGAAAAATGTTTATTTCAAAAATTTTATACCTTTTATG
+Gorilla          CATGAATGTAATATAGATGAGGTGAAAAATGTTTATTTCAAAAATTTTATACCTTTTATG
+ORF              CATGAATGTAATATAGATGAGGTGAAAAATGTTTATTTCAAAAATTTTATACCTTTTATG
+Pan              CATGAATGTAATATAGATGAGGTGAAAAATGTTTATTTCAAAAATTTTATACCTTTTATG
+Cercocebus       CCTGCCTCTGGTCAGGCTTGAGTTTGAAGA----AACCGAAGAACCTGAT---TTTACTG
+                 * **  * *  *   * *   **   **      *    ** **  * **   ***  **
+
+Saimiri          AATTCTCTTGGACTTGTAACATCTAATGGACTTCCAGAGGTTGAAAGTCTGTCTAAACGA
+Macaca           AATTCTCTTGGACTTGTAACATCTAATGGACTTCCAGAGGTTGAAAGTCTGTCTAAACGA
+Galeopterus      AATTCTCTTGGAATTGTGGCTTCTAATGGACTTCCAGAGGTTGAAAGCCTCTCTAAACGA
+Gorilla          AATTCTCTTGGACTTGTAACATCTAATGGACTTCCAGAGGTTGAAAATCTTTCTAAACGA
+ORF              AATTCTCTTGGACTTGTAACATCTAATGGACTTCCAGAGGTTGAAAATCTTTCTAAACGA
+Pan              AATTCTCTTGGACTTGTAACATCTAATGGACTTCCAGAGGTTGAAAATCTTTCTAAACGA
+Cercocebus       CGTTATGTCAGAAATTAAAGATACCAGATCATGTCAGAGA--GAGAGCTTGGTTAACT--
+                   ** * *  **  *      *   *     *  *****   ** *   *   ***    
+
+Saimiri          TACGAAGAAATTTATCTTAAAAATAAAGATCTAGATGCAAGATTATTTTTGGATCATGAT
+Macaca           TATGAAGAAATTTATCTTAAAAATAAAGATCTAGATGCAAGATTATTTTTGGATCATGAT
+Galeopterus      TATGAAGAAGTTTATCTTAAAAACAAAGATCTAGATGCAAGATTATTTTTGGATCATGAC
+Gorilla          TACGAAGAAATTTATCTTAAAAATAAAGATCTAGATGCAAGATTATTTTTGGATCATGAT
+ORF              TACGAAGAAATTTATCTTAAAAATAAAGATCTAGATGCAAGATTATTTTTGGATCATGAT
+Pan              TACGAAGAAATTTATCTTAAAAATAAAGATCTAGATGCAAGATTATTTTTGGATCATGAT
+Cercocebus       TGGGAGAAAGTTTCATCTGTGGATGGAGTATTGG--------------------------
+                 *  **  ** ***    *    *   **   * *                          
+
+Saimiri          AAAACTCTTCAGACTGATTCTATAGACAGTTTTGAAGCACAGAGAACACCACGAAAAAGT
+Macaca           AAGACTCTTCAGACTGATTCTATAGACAGTTTTGAAACACAGAGAACACCGCGAAAAAGT
+Galeopterus      AAAACTCTTCAGACGGATCCTATGGACAGTTTTGAACCACAGAGAACACCACGAAAAATT
+Gorilla          AAAACTCTTCAGACTGATTCTATAGACAGTTTTGAAACACAGAGAACACCACGAAAAAGT
+ORF              AAAACTCTTCAGACTGATTCTATAGACAGTTTTGAAACACAGAGAACACCACGAAAAAGT
+Pan              AAAACTCTTCAGACTGATTCTATAGACAGTTTTGAAACACAGAGAACACCACGAAAAAGT
+Cercocebus       ------------------------------------------------------------
+                                                                             
+
+Saimiri          AACCTTGATGAAGAGGTGAATGTGATTTCTCCACACACTCCAGTTAGGACTGTTATGAAC
+Macaca           AACCTTGATGAAGAGGTGAATGTGATTCCTCCACACACTCCAGTTAGGACTGTTATGAAC
+Galeopterus      AACCCTGATGAAGAGGTGAATGCAATTCCTCCACACACTCCAGTTAGGACTGTTATGAAT
+Gorilla          AACCTTGATGAAGAGGTGAATGTAATTCCTCCACACACTCCAGTTAGGACTGTTATGAAC
+ORF              AACCTTGATGAAGAGGTGAATGTAATTCCTCCACACACTCCAGTTAGGACTGTTATGAAC
+Pan              AACCTTGATGAAGAGGTGAATGTAATTCCTCCACACACTCCAGTTAGGACTGTTATGAAC
+Cercocebus       ------------------------------------------------------------
+                                                                             
+
+Saimiri          ACTATCCAACAATTAATGATGATTTTAAATTCAGCAAGTGATCAGCCATCAGAAAATCTG
+Macaca           ACTATCCAACAATTAATGATGATTTTAAATTCAGCAAGTGATCAACCTTCAGAAAATCTG
+Galeopterus      ACTATCCAACAATTAATGATGATTTTAAATTCAGCAAATGATCAACCATCAGAAAATCTG
+Gorilla          ACTATCCAACAATTAATGATGATTTTAAATTCAGCAAGTGATCAACCTTCAGAAAATCTG
+ORF              ACTATCCAACAATTAATGATGATTTTAAATTCAGCAAGTGATCAACCTTCAGAAAATCTG
+Pan              ACTATCCAACAATTAATGATGATTTTAAATTCAGCAAGTGATCAACCTTCAGAAAATCTG
+Cercocebus       ------------------------------------------------------------
+                                                                             
+
+Saimiri          ATTTCCTATTTTAACAACTGCACAGTTAATCCAAAAGAAAGTATTTTGAAAAGAGTGAAG
+Macaca           ATTTCCTATTTTAATAACTGCACAGTGAATCCAAAAGAAAGCATACTGAAAAGAGTGAAG
+Galeopterus      ATTTCCTATTTTAATAATTGCACAGTGAATCCAAAAGAAAGTATCCTGAAAAGAGTGAAG
+Gorilla          ATTTCCTATTTTAACAACTGCACAGTGAATCCAAAAGAAAGTATACTGAAAAGAGTGAAG
+ORF              ATTTCCTATTTTAACAACTGCACAGTGAATCCAAAAGAAAGTATACTGAAAAGAGTGAAG
+Pan              ATTTCCTATTTTAACAACTGCACAGTGAATCCAAAAGAAAGTATACTGAAAAGAGTGAAG
+Cercocebus       ------------------------------------------------------------
+                                                                             
+
+Saimiri          GATATTGGATACATCTTTAAAGAGAAATTTGCTGAAGCTGTGGGACAGGGATGTGTTGAA
+Macaca           GATATAGGATACATCTTTAAAGAGAAATTTGCTAAAGCTGTGGGACAGGGATGTGTCGAA
+Galeopterus      GATATTGGATACATCTTTAAAGAGAAATTTGCTAAAGCTGTGGGACAGGGATGTGTTGAA
+Gorilla          GATATAGGATACATCTTTAAAGAGAAATTTGCTAAAGCTGTGGGACAGGGTTGTGTCGAA
+ORF              GATATAGGATACATCTTTAAAGAGAAATTTGCTAAAGCTGTGGGACAGGGTTGTGTCGAA
+Pan              GATATAGGATACATCTTTAAAGAGAAATTTGCTAAAGCTGTGGGACAGGGTTGTGTCGAA
+Cercocebus       ------------------------------------------------------------
+                                                                             
+
+Saimiri          ATTGGATCACAGCGATACAAACTTGGAGTTCGCTTGTATTACCGAGTAATGGAATCCATG
+Macaca           ATTGGATCACAGCGATACAAACTTGGAGTTCGCTTGTATTACCGAGTAATGGAATCCATG
+Galeopterus      ATTGGATCACAGAGATACAAACTCGGAGTCCGTTTGTATTACCGAGTAATGGAATCCATG
+Gorilla          ATTGGATCACAGCGATACAAACTTGGAGTTCGCTTGTATTACCGAGTAATGGAATCCATG
+ORF              ATTGGATCACAGCGATACAAACTTGGAGTTCGCTTGTATTACCGAGTAATGGAATCCATG
+Pan              ATTGGATCACAGCGATACAAACTTGGAGTTCGCTTGTATTACCGAGTAATGGAATCCATG
+Cercocebus       ------------------------------------------------------------
+                                                                             
+
+Saimiri          CTTAAATCAGAAGAAGAACGATTATCCATTCAAAATTTTAGCAAACTTCTAAACGACAGC
+Macaca           CTTAAATCAGAAGAAGAACGATTATCCATTCAAAATTTTAGCAAACTTCTGAATGACAAC
+Galeopterus      CTTAAATCAGAAGAAGAAAGATTATCTGTTCAAAATTTTAGCAAACTTCTGAATGACAAC
+Gorilla          CTTAAATCAGAAGAAGAACGATTATCCATTCAAAATTTTAGCAAACTTCTGAATGACAAC
+ORF              CTTAAATCAGAAGAAGAACGATTATCCATTCAAAATTTTAGCAAACTTCTGAATGACAAC
+Pan              CTTAAATCAGAAGAAGAACGATTATCCATTCAAAATTTTAGCAAACTTCTGAATGACAAC
+Cercocebus       ------------------------------------------------------------
+                                                                             
+
+Saimiri          ATTTTTCATATGTCTTTATTGGCGTGTGCTCTTGAGGTTGTAATGGCCACATATAGCAGA
+Macaca           ATTTTTCATATGTCTTTATTGGCGTGTGCTCTTGAGGTTGTAATGGCCACATATAGCAGA
+Galeopterus      ATCTTTCATATGTCTTTATTGGCCTGTGCTCTTGAGGTTGTAATGGCTACATATAGCAGA
+Gorilla          ATTTTTCATATGTCTTTATTGGCGTGCGCTCTTGAGGTTGTAATGGCCACATATAGCAGA
+ORF              ATTTTTCATATGTCTTTATTGGCGTGCGCTCTTGAGGTTGTAATGGCCACATATAGCAGA
+Pan              ATTTTTCATATGTCTTTATTGGCGTGCGCTCTTGAGGTTGTAATGGCCACATATAGCAGA
+Cercocebus       ------------------------------------------------------------
+                                                                             
+
+Saimiri          AGCACTTCCCAGAATCTTGATTCTGGAACAGATTTGTCCTTCCCATGGATTCTGAATGTG
+Macaca           AGTACATCTCAGAATCTTGATTCTGGAACAGATTTGTCTTTCCCATGGATTCTGAATGTG
+Galeopterus      AGTACATCTCAGAATCTTGATTCTGGAACAGATTTATCCTTCCCATGGATTCTGAATGTA
+Gorilla          AGTACATCTCAGAATCTTGATTCTGGAACAGATTTGTCTTTCCCATGGATTCTGAATGTG
+ORF              AGTACATCTCAGAATCTTGATTCTGGAACAGATTTGTCTTTCCCATGGATTCTGAATGTG
+Pan              AGTACATCTCAGAATCTTGATTCTGGAACAGATTTGTCTTTCCCATGGATTCTGAATGTG
+Cercocebus       ------------------------------------------------------------
+                                                                             
+
+Saimiri          CTTAATTTAAAAGCCTTTGATTTTTACAAAGTGATTGAAAGTTTTATCAAAGCAGAAGGC
+Macaca           CTTAATTTGAAAGCCTTTGATTTTTACAAAGTGATTGAAAGTTTTATCAAAGCAGAAGGC
+Galeopterus      CTTAATTTAAAAGCCTTTGATTTTTACAAAGTGATTGAAAGTTTTATCAAAGCAGAAGCC
+Gorilla          CTTAATTTAAAAGCCTTTGATTTTTACAAAGTGATCGAAAGTTTTATCAAAGCAGAAGGC
+ORF              CTTAATTTAAAAGCCTTTGATTTTTACAAAGTGATCGAAAGTTTTATCAAAGCAGAAGGC
+Pan              CTTAATTTAAAAGCCTTTGATTTTTACAAAGTGATCGAAAGTTTTATCAAAGCAGAAGGC
+Cercocebus       ------------------------------------------------------------
+                                                                             
+
+Saimiri          ACCTTGACAAGAGAAATGATAAAACATTTAGAACGATGTGAACATCGAATCATGGAATCC
+Macaca           AACTTGACAAGAGAAATGATAAAACACTTAGAACGATGTGAACATCGAATCATGGAATCC
+Galeopterus      AACTTGACAAGAGAAATGATAAAACATTTAGAGCGATGTGAACATCGAATCATGGAATCC
+Gorilla          AACTTGACAAGAGAAATGATAAAACATTTAGAACGATGTGAACATCGAATCATGGAATCC
+ORF              AACTTGACAAGAGAAATGATAAAACATTTAGAACGATGTGAACATCGAATCATGGAATCC
+Pan              AACTTGACAAGAGAAATGATAAAACATTTAGAACGATGTGAACATCGAATCATGGAATCC
+Cercocebus       ------------------------------------------------------------
+                                                                             
+
+Saimiri          CTTGCGTGGCTCTCAGATTCACCTTTATTTGATCTTATTAAACAATCAAAGGACCGAGAA
+Macaca           CTTGCATGGCTCTCAGATTCACCTTTATTTGATCTTATTAAACAATCAAAGGACCGAGAA
+Galeopterus      CTTGCATGGCTCTCAGATTCACCTTTATTTGACCTTATTAAACAATCAAAGGACAGAGAA
+Gorilla          CTTGCATGGCTCTCAGATTCACCTTTATTTGATCTTATTAAACAATCAAAGGACCGAGAA
+ORF              CTTGCATGGCTCTCAGATTCACCTTTATTTGATCTTATTAAACAATCAAAGGACCGAGAA
+Pan              CTTGCATGGCTCTCAGATTCACCTTTATTTGATCTTATTAAACAATCAAAGGACCGAGAA
+Cercocebus       ------------------------------------------------------------
+                                                                             
+
+Saimiri          GGACCAACTGATCACCTTGAATCTGCTTGTCCTCTTAATGTTGCTCTCCAGAATAATCAC
+Macaca           GGACCAACTGATCACTTTGAATCTGCTTGTCCTCTTAATCTTCCTCTCCAGAATAATCAC
+Galeopterus      GGACCAGCTGATCATCTTGATTCTGCTTGTCCTCTCAATCTTCCTCTACAGAATAATCAC
+Gorilla          GGACCAACTGATCACCTTGAATCTGCTTGTCCTCTTAATCTTCCTCTCCAGAATAATCAC
+ORF              GGACCAACTGATCACCTTGAATCTGCTTGTCCTCTTAATCTTCCTCTCCAGAATAATCAC
+Pan              GGACCAACTGATCACCTTGAATCTGCTTGTCCTCTTAATCTTCCTCTCCAGAATAATCAC
+Cercocebus       ------------------------------------------------------------
+                                                                             
+
+Saimiri          ACTGCAGCAGATATGTATCTTTCTCCTGTAAGATCCCCAAAGAAAAAAGGTTCAGCTACA
+Macaca           ACTGCAGCAGATATGTATCTTTCTCCTGTAAGATCTCCAAAGAAAAAAGGTTCAACTACA
+Galeopterus      ACTGCTGCAGATATGTATCTTTCTCCTGTAAGATCCCCAAAGAAAAAAGGTTCAGCTGCA
+Gorilla          ACTGCAGCAGATATGTATCTTTCTCCTGTAAGATCTCCAAAGAAAAAAGGTTCAACTACG
+ORF              ACTGCAGCAGATATGTATCTTTCTCCTGTAAGATCTCCAAAGAAAAAAGGTTCAACTACG
+Pan              ACTGCAGCAGATATGTATCTTTCTCCTGTAAGATCTCCAAAGAAAAAAGGTTCAACTACG
+Cercocebus       ------------------------------------------------------------
+                                                                             
+
+Saimiri          CGTGTAAATTCTACTGCAAATGCAGAGACACAAGCAACCTCAGCCTTCCAGACCCAGAAG
+Macaca           CGTGTAAATTCTACTGCAAATGCAGAGACACAAGCAACCTCAGCCTTCCAGACCCAGAAG
+Galeopterus      CGTGTAAATT---CTGCAAATGTGGAGACACAACCAACTTCAGCCTTCCAGACTCAGAAG
+Gorilla          CGTGTAAATTCTACTGCAAATGCAGAGACACAAGCAACCTCAGCCTTCCAGACCCAGAAG
+ORF              CGTGTAAATTCTACTGCAAATGCAGAGACACAAGCAACCTCAGCCTTCCAGACCCAGAAG
+Pan              CGTGTAAATTCTACTGCAAATGCAGAGACACAAGCAACCTCAGCCTTCCAGACCCAGAAG
+Cercocebus       ------------------------------------------------------------
+                                                                             
+
+Saimiri          CCATTGAAATCTACCTCTCTTTCACTGTTTTATAAAAAAGTGTATCGGCTAGCTTATCTC
+Macaca           CCATTGAAATCTACCTCTCTTTCACTGTTTTATAAAAAAGTGTATCGGCTAGCCTATCTC
+Galeopterus      CCATTAAAATCTACCTCCCTTTCACTGTTTTACAAAAAAGTGTACAGGCTAGCATATCTC
+Gorilla          CCATTGAAATCTACCTCTCTTTCACTGTTTTATAAAAAAGTGTATCGGCTAGCCTATCTC
+ORF              CCATTGAAATCTACCTCTCTTTCACTGTTTTATAAAAAAGTGTATCGGCTAGCCTATCTC
+Pan              CCATTGAAATCTACCTCTCTTTCACTGTTTTATAAAAAAGTGTATCGGCTAGCCTATCTC
+Cercocebus       ------------------------------------------------------------
+                                                                             
+
+Saimiri          CGGCTAAATACGCTGTGTGAACGCCTTCTGTCTGAGCACCCAGAACTAGAGCATATCATC
+Macaca           CGGCTAAATACACTATGTGAACGCCTTCTATCTGAGCACCCAGAACTAGAACACATCATC
+Galeopterus      CGACTAAATACCCTATGTGCACGCCTTCTGTCTGACCACCCAGAACTAGAACACATCATC
+Gorilla          CGGCTAAATACACTTTGTGAACGCCTTCTGTCTGAGCACCCAGAATTAGAACATATCATC
+ORF              CGGCTAAATACACTTTGTGAACGCCTTCTGTCTGAGCACCCAGAATTAGAACATATCATC
+Pan              CGGCTAAATACACTTTGTGAACGCCTTCTGTCTGAGCACCCAGAATTAGAACATATCATC
+Cercocebus       ------------------------------------------------------------
+                                                                             
+
+Saimiri          TGGACCCTTTTCCAGCACACGCTGCAGAATGAATATGAACTTATGAGAGACAGGCATTTG
+Macaca           TGGACCCTTTTCCAGCATACGCTGCAGAATGAGTATGAACTCATGAGAGACAGGCATTTG
+Galeopterus      TGGACCCTTTTCCAGCACACACTACAAAATGAATACGAACTCATGAGAGATAGGCACCTG
+Gorilla          TGGACCCTTTTCCAGCACACCCTGCAGAATGAGTATGAACTCATGAGAGACAGGCATTTG
+ORF              TGGACCCTTTTCCAGCACACCCTGCAGAATGAGTATGAACTCATGAGAGACAGGCATTTG
+Pan              TGGACCCTTTTCCAGCACACCCTGCAGAATGAGTATGAACTCATGAGAGACAGGCATTTG
+Cercocebus       ------------------------------------------------------------
+                                                                             
+
+Saimiri          GACCAAATTATGATGTGTTCCATGTATGGCATATGCAAAGTGAAGAATATAGACCTTAAA
+Macaca           GACCAAATTATGATGTGTTCCATGTATGGCATATGCAAAGTGAAGAATATAGACCTTAAA
+Galeopterus      GACCAGATTATGATGTGTTCCATGTACGGCATGTGCAAAGTGAAGAATATAGACCTTAAA
+Gorilla          GACCAAATTATGATGTGTTCCATGTATGGCATATGCAAAGTGAAGAATATAGACCTTAAA
+ORF              GACCAAATTATGATGTGTTCCATGTATGGCATATGCAAAGTGAAGAATATAGACCTTAAA
+Pan              GACCAAATTATGATGTGTTCCATGTATGGCATATGCAAAGTGAAGAATATAGACCTTAAA
+Cercocebus       ------------------------------------------------------------
+                                                                             
+
+Saimiri          TTCAAAATCATTGTAACAGCATACAAAGATCTTCCTCATGCTGTTCAGGAGACTTTCAAA
+Macaca           TTCAAAATCATCGTAACAGCATACAAGGATCTTCCTCATGCTGTTCAGGAGACATTCAAA
+Galeopterus      TTCAAAATCATTGTAACAGCATACAAGGATCTTCCTCATGCTGTTCAGGAGACATTCAAA
+Gorilla          TTCAAAATCATTGTAACAGCATACAAGGATCTTCCTCATGCTGTTCAGGAGACATTCAAA
+ORF              TTCAAAATCATTGTAACAGCATACAAGGATCTTCCTCATGCTGTTCAGGAGACATTCAAA
+Pan              TTCAAAATCATTGTAACAGCATACAAGGATCTTCCTCATGCTGTTCAGGAGACATTCAAA
+Cercocebus       ------------------------------------------------------------
+                                                                             
+
+Saimiri          CGTGTTTTGATCAAAGAAGAGGAGTATGATTCTATTATAGTATTCTATAACTCAGTCTTC
+Macaca           CGTGTTTTGATCAAAGAAGAGGAGTATGATTCTATTATAGTATTCTATAACTCGGTCTTC
+Galeopterus      CGTGTTTTGATCAGAGAAGAGGAGTATGATTCCATTATAGTATTCTATAACTCGGTCTTC
+Gorilla          CGTGTTTTGATCAAAGAAGAGGAGTATGATTCTATTATAGTATTCTATAACTCGGTCTTC
+ORF              CGTGTTTTGATCAAAGAAGAGGAGTATGATTCTATTATAGTATTCTATAACTCGGTCTTC
+Pan              CGTGTTTTGATCAAAGAAGAGGAGTATGATTCTATTATAGTATTCTATAACTCGGTCTTC
+Cercocebus       ------------------------------------------------------------
+                                                                             
+
+Saimiri          ATGCAGAGACTGAAAACAAATATTTTGCAGTATGCTTCCACCAGGCCCCCTACCTTGTCA
+Macaca           ATGCAGAGACTGAAAACAAATATTTTGCAGTATGCTTCCACCAGGCCCCCTACCTTGTCA
+Galeopterus      ATGCAGAGACTGAAAACAAATATTTTGCAGTATGCTTCCACCAGGCCCCCTACCTTGTCA
+Gorilla          ATGCAGAGACTGAAAACAAATATTTTGCAGTATGCTTCCACCAGGCCCCCTACCTTGTCA
+ORF              ATGCAGAGACTGAAAACAAATATTTTGCAGTATGCTTCCACCAGGCCCCCTACCTTGTCA
+Pan              ATGCAGAGACTGAAAACAAATATTTTGCAGTATGCTTCCACCAGGCCCCCTACCTTGTCA
+Cercocebus       ------------------------------------------------------------
+                                                                             
+
+Saimiri          CCAATACCTCACATTCCTCGAAGCCCTTACAAGTTTCCTAGTTCACCCTTACGGATTCCT
+Macaca           CCAATACCTCACATTCCTCGAAGTCCTTACAAGTTTCCTAGTTCGCCCTTACGGATTCCT
+Galeopterus      CCAATACCTCACATTCCTCGAAGCCCTTACAAGTTTTCTAGTTCACCCTTACGGATTCCT
+Gorilla          CCAATACCTCACATTCCTCGAAGCCCTTACAAGTTTCCTAGTTCACCCTTACGGATTCCT
+ORF              CCAATACCTCACATTCCTCGAAGCCCTTACAAGTTTCCTAGTTCACCCTTACGGATTCCT
+Pan              CCAATACCTCACATTCCTCGAAGCCCTTACAAGTTTCCTAGTTCACCCTTACGGATTCCT
+Cercocebus       ------------------------------------------------------------
+                                                                             
+
+Saimiri          GGAGGGAACATCTATATATCACCCCTGAAGAGTCCATATAAAATTTCAGAAGGTCTGCCA
+Macaca           GGAGGGAACATCTATATTTCACCCCTGAAGAGTCCATATAAAATTTCAGAAGGTCTGCCA
+Galeopterus      GGGGGGAACATATATATATCACCCCTGAAGAGTCCATATAAAATTTCAGAAGGTCTGCCA
+Gorilla          GGAGGGAACATCTATATTTCACCCCTGAAGAGTCCATATAAAATTTCAGAAGGTCTGCCA
+ORF              GGAGGGAACATCTATATTTCACCCCTGAAGAGTCCATATAAAATTTCAGAAGGTCTGCCA
+Pan              GGAGGGAACATCTATATTTCACCCCTGAAGAGTCCATATAAAATTTCAGAAGGTCTGCCA
+Cercocebus       ------------------------------------------------------------
+                                                                             
+
+Saimiri          ACACCAACAAAAATGACTCCAGGAACAAGAATCTTAGTATCAATTGGTGAATCATTTGGG
+Macaca           ACACCCACGAAAATGACTCCAAGATCAAGAATCTTAGTATCAATTGGTGAATCATTTGGG
+Galeopterus      ACACCAACAAAAATGACTCCAAGATCAAGAATCTTAGTATCAATTGGTGAATCATTTGGG
+Gorilla          ACACCAACAAAAATGACTCCAAGATCAAGAATCTTAGTATCAATTGGTGAATCATTCGGG
+ORF              ACACCAACAAAAATGACTCCAAGATCAAGAATCTTAGTATCAATTGGTGAATCATTCGGG
+Pan              ACACCAACAAAAATGACTCCAAGATCAAGAATCTTAGTATCAATTGGTGAATCATTCGGG
+Cercocebus       ------------------------------------------------------------
+                                                                             
+
+Saimiri          ACTTCTGAGAAGTTCCAGAAAATAAATCAGATGGTTTGTAACAGTGACCGTGTGCTCAAA
+Macaca           ACTTCTGAGAAGTTCCAGAAAATAAATCAGATGGTGTGTAACAGCGACCGTGTGCTCAAA
+Galeopterus      ACTTCTGAGAAGTTCCAGAAAATAAATCAGATGGTATGTAACAGTGACCGTGTACTCAAA
+Gorilla          ACTTCTGAGAAGTTCCAGAAAATAAATCAGATGGTATGTAACAGCGACCGTGTGCTCAAA
+ORF              ACTTCTGAGAAGTTCCAGAAAATAAATCAGATGGTATGTAACAGCGACCGTGTGCTCAAA
+Pan              ACTTCTGAGAAGTTCCAGAAAATAAATCAGATGGTATGTAACAGCGACCGTGTGCTCAAA
+Cercocebus       ------------------------------------------------------------
+                                                                             
+
+Saimiri          AGAAGCGCTGAAGGAAGCAACCCTCCTAAACCGCTGAAAAAACTACGCTTTGATATCGAA
+Macaca           AGAAGTGCTGAAGGAAGCAACCCTCCTAAACCGCTGAAAAAACTACGCTTTGATATTGAA
+Galeopterus      AGAAGTGCTGAAGGAAGCAACCCTCCTAAACCACTGAAAAAACTACGCTTTGATATTGAA
+Gorilla          AGAAGTGCTGAAGGAAGCAACCCTCCTAAACCACTGAAAAAACTACGCTTTGATATTGAA
+ORF              AGAAGTGCTGAAGGAAGCAACCCTCCTAAACCACTGAAAAAACTACGCTTTGATATTGAA
+Pan              AGAAGTGCTGAAGGAAGCAACCCTCCTAAACCACTGAAAAAACTACGCTTTGATATTGAA
+Cercocebus       ------------------------------------------------------------
+                                                                             
+
+Saimiri          GGATCAGATGAAGCAGATGGAAGTAAACACCTCCAAGGGGAGTCCAAATTTCAGCAGAAA
+Macaca           GGATCAGATGAAGCAGATGGAAGTAAACATCTCCCAGGGGAGTCCAAATTTCAGCAGAAA
+Galeopterus      GGATCAGATGAAGCAGATGGAAGTAAACATCTCCCGGGGGAGTCCAAATTTCAACAGAAA
+Gorilla          GGATCAGATGAAGCAGATGGAAGTAAACATCTCCCAGGAGAGTCCAAATTTCAGCAGAAA
+ORF              GGATCAGATGAAGCAGATGGAAGTAAACATCTCCCAGGAGAGTCCAAATTTCAGCAGAAA
+Pan              GGATCAGATGAAGCAGATGGAAGTAAACATCTCCCAGGAGAGTCCAAATTTCAGCAGAAA
+Cercocebus       ------------------------------------------------------------
+                                                                             
+
+Saimiri          CTGGCAGAAATGACATCTACTCGAACACGAATGCAAAAGCAGAAAATGAATGACAGCATG
+Macaca           CTGGCAGAAATGACTTCCACTCGAACACGAATGCAAAAGCAGAAAATGAATGATAGCATG
+Galeopterus      CTGGCAGAAATGACATCTACTCGAACACGAATGCAAAAGCAGAAAATGAATGATAGCATG
+Gorilla          CTGGCAGAAATGACTTCTACTCGAACACGAATGCAAAAGCAGAAAATGAATGATAGCATG
+ORF              CTGGCAGAAATGACTTCTACTCGAACACGAATGCAAAAGCAGAAAATGAATGATAGCATG
+Pan              CTGGCAGAAATGACTTCTACTCGAACACGAATGCAAAAGCAGAAAATGAATGATAGCATG
+Cercocebus       ------------------------------------------------------------
+                                                                             
+
+Saimiri          GATACCTCAAACAAGGAAGAAAAATGA---------------------------------
+Macaca           GATACCTCAAACAAGGAAGAGAAATGA---------------------------------
+Galeopterus      GATACCTCAAACAAGGAAGAAAAGTGA---------------------------------
+Gorilla          GATACCTCAAACAAGGAAGAGAAATGA---------------------------------
+ORF              GATACCTCAAACAAGGAAGAGAAATGA---------------------------------
+Pan              GATACCTCAAACAAGGAAGAGAAATGA---------------------------------
+Cercocebus       ------------------------------------------------------------
+                                                                             
+
+Saimiri          ------------------------------------------------------------
+Macaca           ------------------------------------------------------------
+Galeopterus      ------------------------------------------------------------
+Gorilla          ------------------------------------------------------------
+ORF              ------------------------------------------------------------
+Pan              ------------------------------------------------------------
+Cercocebus       ------------------------------------------------------------
+                                                                             
+
+Saimiri          ------------------------------------------------------------
+Macaca           ------------------------------------------------------------
+Galeopterus      ------------------------------------------------------------
+Gorilla          ------------------------------------------------------------
+ORF              ------------------------------------------------------------
+Pan              ------------------------------------------------------------
+Cercocebus       ------------------------------------------------------------
+                                                                             
+
+Saimiri          ------------------------------------------------------------
+Macaca           ------------------------------------------------------------
+Galeopterus      ------------------------------------------------------------
+Gorilla          ------------------------------------------------------------
+ORF              ------------------------------------------------------------
+Pan              ------------------------------------------------------------
+Cercocebus       ------------------------------------------------------------
+                                                                             
+
+Saimiri          ------------------------------------------------------------
+Macaca           ------------------------------------------------------------
+Galeopterus      ------------------------------------------------------------
+Gorilla          ------------------------------------------------------------
+ORF              ------------------------------------------------------------
+Pan              ------------------------------------------------------------
+Cercocebus       ------------------------------------------------------------
+                                                                             
+
+Saimiri          ------------------------------------------------------------
+Macaca           ------------------------------------------------------------
+Galeopterus      ------------------------------------------------------------
+Gorilla          ------------------------------------------------------------
+ORF              ------------------------------------------------------------
+Pan              ------------------------------------------------------------
+Cercocebus       ------------------------------------------------------------
+                                                                             
+
+Saimiri          ------------------------------------------------------------
+Macaca           ------------------------------------------------------------
+Galeopterus      ------------------------------------------------------------
+Gorilla          ------------------------------------------------------------
+ORF              ------------------------------------------------------------
+Pan              ------------------------------------------------------------
+Cercocebus       ------------------------------------------------------------
+                                                                             
+
+Saimiri          ------------------------------------------------------------
+Macaca           ------------------------------------------------------------
+Galeopterus      ------------------------------------------------------------
+Gorilla          ------------------------------------------------------------
+ORF              ------------------------------------------------------------
+Pan              ------------------------------------------------------------
+Cercocebus       ------------------------------------------------------------
+                                                                             
+
+Saimiri          ------------------------------------------------------------
+Macaca           ------------------------------------------------------------
+Galeopterus      ------------------------------------------------------------
+Gorilla          ------------------------------------------------------------
+ORF              ------------------------------------------------------------
+Pan              ------------------------------------------------------------
+Cercocebus       ------------------------------------------------------------
+                                                                             
+
+Saimiri          ------------------------------------------------------------
+Macaca           ------------------------------------------------------------
+Galeopterus      ------------------------------------------------------------
+Gorilla          ------------------------------------------------------------
+ORF              ------------------------------------------------------------
+Pan              ------------------------------------------------------------
+Cercocebus       ------------------------------------------------------------
+                                                                             
+
+Saimiri          ------------------------------------------------------------
+Macaca           ------------------------------------------------------------
+Galeopterus      ------------------------------------------------------------
+Gorilla          ------------------------------------------------------------
+ORF              ------------------------------------------------------------
+Pan              ------------------------------------------------------------
+Cercocebus       ------------------------------------------------------------
+                                                                             
+
+Saimiri          ------------------------------------------------------------
+Macaca           ------------------------------------------------------------
+Galeopterus      ------------------------------------------------------------
+Gorilla          ------------------------------------------------------------
+ORF              ------------------------------------------------------------
+Pan              ------------------------------------------------------------
+Cercocebus       ------------------------------------------------------------
+                                                                             
+
+Saimiri          ------------------------------------
+Macaca           ------------------------------------
+Galeopterus      ------------------------------------
+Gorilla          ------------------------------------
+ORF              ------------------------------------
+Pan              ------------------------------------
+Cercocebus       ------------------------------------
+                                                     
