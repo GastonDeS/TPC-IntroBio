@@ -1,0 +1,6 @@
+{
+    "primer_length_range": [18, 24],
+    "gc_content_range": [50, 60],
+    "max_gc_terminal": 0.1,
+    "max_melting_temperature": 67
+}
