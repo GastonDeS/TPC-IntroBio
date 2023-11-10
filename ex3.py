@@ -61,7 +61,7 @@ if __name__ == "__main__":
 
     
 
-    with open(args.fasta-msa, "w") as file:
+    with open(args.fasta_msa, "w") as file:
       file.write(top10fastas)
 
     print(top10fastas)
