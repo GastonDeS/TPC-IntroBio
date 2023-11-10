@@ -7,6 +7,7 @@ from enum import Enum
 # from Bio.Application import ApplicationError
 import argparse
 import xml.etree.ElementTree as ET
+from Bio import Entrez, SeqIO
 
 def parseOrf(orfFile):
     
@@ -31,6 +32,13 @@ def parseOrf(orfFile):
         
     return hit_ids
 
+def fetch_fasta_from_genbank(accession):
+    Entrez.email = None  # Set to None if you prefer not to provide an email address
+    handle = Entrez.efetch(db="nucleotide", id=accession, rettype="fasta", retmode="text")
+    record = SeqIO.read(handle, "fasta")
+    handle.close()
+    return record
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(prog="ex3.py", description="Execute Multiple Sequence Alignment with Clustalw")
     parser.add_argument("--input", help="Input file (orf.xml)", type=str, required=True)
@@ -38,10 +46,10 @@ if __name__ == "__main__":
     parser.add_argument("--fastaPath", help="Path to fasta file", type=str, required=True)
     args = parser.parse_args()
 
-    tree = ET.parse(args.fastaPath)
-    root = tree.getroot()
-    for child in root:
-        print(child.tag, child.attrib)
+    accessions = parseOrf(args.fastaPath)
+    top10fastas = ''
+    for accession in accessions:
+        top10fastas += fetch_fasta_from_genbank(accession).__str__()
 
     in_file = args.input
     out_file = args.output
