@@ -2,12 +2,11 @@ import subprocess
 import argparse
 from shutil import which
 from enum import Enum
-# from Bio import SeqIO, AlignIO, Seq, SeqRecord
-# from Bio.Align.Applications import ClustalwCommandline
-# from Bio.Application import ApplicationError
+from Bio.Align.Applications import ClustalwCommandline
 import argparse
 import xml.etree.ElementTree as ET
 from Bio import Entrez, SeqIO
+
 
 def parseOrf(orfFile):
     
@@ -39,25 +38,31 @@ def fetch_fasta_from_genbank(accession):
     handle.close()
     return record
 
+def perform_msa(inputs, output):
+  # Set up the CrustalW command
+  crustal_cmd = ClustalwCommandline("crustalw2", infile=inputs, outfile=output)
+
+  print(crustal_cmd)
+  crustal_cmd()
+  return 1
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(prog="ex3.py", description="Execute Multiple Sequence Alignment with Clustalw")
     parser.add_argument("--input", help="Input file (orf.xml)", type=str, required=True)
     parser.add_argument("--output", help="Output file", type=str, required=False)
-    parser.add_argument("--fastaPath", help="Path to fasta file", type=str, required=True)
     args = parser.parse_args()
 
-    accessions = parseOrf(args.fastaPath)
+    accessions = parseOrf(args.input)
     top10fastas = ''
     for accession in accessions:
-        top10fastas += fetch_fasta_from_genbank(accession).__str__()
+        fasta = fetch_fasta_from_genbank(accession)
+        top10fastas += ">%s\n%s\n" % (fasta.id, fasta.seq)
 
-    in_file = args.input
-    out_file = args.output
-
-    extension = in_file.split(".")[-1]
     
-    ids = parseOrf(in_file)
-    
-    print(ids)
 
-    # perform_msa(in_file, out_file)
+    with open(args.output, "w") as file:
+      file.write(top10fastas)
+
+    print(top10fastas)
+
+    perform_msa(top10fastas, args.output)
