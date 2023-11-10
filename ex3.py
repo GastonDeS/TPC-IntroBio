@@ -2,33 +2,48 @@ import subprocess
 import argparse
 from shutil import which
 from enum import Enum
-from Bio import SeqIO, AlignIO, Seq, SeqRecord
-from Bio.Align.Applications import ClustalwCommandline
-from Bio.Application import ApplicationError
+# from Bio import SeqIO, AlignIO, Seq, SeqRecord
+# from Bio.Align.Applications import ClustalwCommandline
+# from Bio.Application import ApplicationError
 import argparse
+import xml.etree.ElementTree as ET
 
-def perform_msa(in_file, out_file):
-    try:
-        if which("clustalw2") is None:
-            print(f"Error: Clustalw2 is not installed. Please make sure it is installed.")
-            exit(1)
+def parseOrf(orfFile):
+    
+    # Load the XML file
+    tree = ET.parse(orfFile)
+    root = tree.getroot()
 
-        clustalw_cline = ClustalwCommandline("clustalw2", infile=in_file, outfile=out_file)
-        clustalw_cline()
+    # Find all Hit elements
+    hit_elements = root.findall(".//Hit")
 
-    except (subprocess.CalledProcessError, OSError) as e:
-        print(f"Error: Unable to perform MSA with Clustalw2: {e}")
-        exit(1)
+    hit_ids = []
+
+    # Check if any Hit elements are found
+    if hit_elements:
+        # Iterate over each Hit element
+        for hit_element in hit_elements[:10]:
+            # Access information within each Hit element
+            hit_id = hit_element.find("Hit_accession").text
+            hit_ids.append(hit_id)
+    else:
+        print("No Hit elements found in the XML.")
+        
+    return hit_ids
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(prog="ex3.py", description="Execute Multiple Sequence Alignment with Clustalw")
-    parser.add_argument("--input", help="Input file (.fas)", type=str, required=True)
-    parser.add_argument("--output", help="Output file", type=str, required=True)
+    parser.add_argument("--input", help="Input file (orf.xml)", type=str, required=True)
+    parser.add_argument("--output", help="Output file", type=str, required=False)
     args = parser.parse_args()
 
     in_file = args.input
     out_file = args.output
 
     extension = in_file.split(".")[-1]
+    
+    ids = parseOrf(in_file)
+    
+    print(ids)
 
-    perform_msa(in_file, out_file)
+    # perform_msa(in_file, out_file)
