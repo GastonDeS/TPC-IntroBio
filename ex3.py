@@ -35,7 +35,13 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(prog="ex3.py", description="Execute Multiple Sequence Alignment with Clustalw")
     parser.add_argument("--input", help="Input file (orf.xml)", type=str, required=True)
     parser.add_argument("--output", help="Output file", type=str, required=False)
+    parser.add_argument("--fastaPath", help="Path to fasta file", type=str, required=True)
     args = parser.parse_args()
+
+    tree = ET.parse(args.fastaPath)
+    root = tree.getroot()
+    for child in root:
+        print(child.tag, child.attrib)
 
     in_file = args.input
     out_file = args.output
