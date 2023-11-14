@@ -1,8 +1,3 @@
-import subprocess
-import argparse
-from shutil import which
-from enum import Enum
-from Bio.Align.Applications import ClustalwCommandline
 import argparse
 import xml.etree.ElementTree as ET
 from Bio import Entrez, SeqIO
@@ -19,11 +14,8 @@ def parseOrf(orfFile):
 
     hit_ids = []
 
-    # Check if any Hit elements are found
     if hit_elements:
-        # Iterate over each Hit element
         for hit_element in hit_elements[:10]:
-            # Access information within each Hit element
             hit_id = hit_element.find("Hit_accession").text
             hit_ids.append(hit_id)
     else:
@@ -37,14 +29,6 @@ def fetch_fasta_from_genbank(accession):
     record = SeqIO.read(handle, "fasta")
     handle.close()
     return record
-
-def perform_msa(inputs, output):
-  # Set up the CrustalW command
-  crustal_cmd = ClustalwCommandline("crustalw2", infile=inputs, outfile=output)
-
-  print(crustal_cmd)
-  crustal_cmd()
-  return 1
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(prog="ex3.py", description="Execute Multiple Sequence Alignment with Clustalw")
@@ -63,7 +47,3 @@ if __name__ == "__main__":
 
     with open(args.fasta_msa, "w") as file:
       file.write(top10fastas)
-
-    print(top10fastas)
-
-    perform_msa(top10fastas, args.output)

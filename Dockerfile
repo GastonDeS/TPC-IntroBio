@@ -12,11 +12,11 @@ RUN tar -xvzf "clustalw-2.1-linux-x86_64-libcppstatic.tar.gz"
 RUN mv clustalw-2.1-linux-x86_64-libcppstatic/clustalw2 /usr/local/bin/clustalw2
 RUN chmod +x /usr/local/bin/clustalw2
 
-RUN wget "https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/ncbi-blast-2.14.1+-x64-linux.tar.gz"
-RUN tar -xvzf "ncbi-blast-2.14.1+-x64-linux.tar.gz"
+RUN wget "https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/2.13.0/ncbi-blast-2.13.0+-x64-linux.tar.gz"
+RUN tar -xvzf "ncbi-blast-2.13.0+-x64-linux.tar.gz"
 RUN wget "https://ftp.ncbi.nlm.nih.gov/blast/db/FASTA/swissprot.gz"
 RUN gunzip "swissprot.gz"
-RUN mv ncbi-blast-2.14.1+/bin/* /usr/local/bin/
+RUN mv ncbi-blast-2.13.0+/bin/* /usr/local/bin/
 RUN "makeblastdb" -in swissprot -dbtype prot
 
 RUN apt-get install -y emboss
