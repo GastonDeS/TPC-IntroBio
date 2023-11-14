@@ -55,8 +55,14 @@ python3 ./ex2.py --input orfs/NM_000231.3 --output blast_results --method ncbi-b
 Run the third script with the following command:
 
 ```bash
-python3 ./ex3.py --input blast_results/orf0_876.xml --fasta-msa=ex3AuxFile.fasta --output msa/alignedmultipleGapsMuscle
+python3 ./ex3.py --input blast_results/orf0_876.xml --fasta-msa ex3AuxFile.fasta
 ```
+
+To get the final output in a file, we use the following link:
+
+`https://www.ebi.ac.uk/Tools/msa/clustalo/`
+
+And then we copy the ex3AuxFile.fasta into the placeholder of the webpage and download the output file. (msa/alignedmultipleGapsMuscle)
 
 ### Exercise 4
 

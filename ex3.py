@@ -33,8 +33,7 @@ def fetch_fasta_from_genbank(accession):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(prog="ex3.py", description="Execute Multiple Sequence Alignment with Clustalw")
     parser.add_argument("--input", help="Input file (orf.xml)", type=str, required=True)
-    parser.add_argument("--output", help="Output file", type=str, required=False)
-    parser.add_argument("--fasta-msa", help="Save intermediate file", type=str, required=False)
+    parser.add_argument("--fasta-msa", help="fasta prepared for msa", type=str, required=True)
     args = parser.parse_args()
 
     accessions = parseOrf(args.input)
