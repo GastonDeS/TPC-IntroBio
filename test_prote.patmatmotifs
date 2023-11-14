@@ -1,0 +1,44 @@
+########################################
+# Program: patmatmotifs
+# Rundate: Tue 14 Nov 2023 23:46:41
+# Commandline: patmatmotifs
+#    -sequence orfs/NM_000231.3/orf0_876.fas
+#    -outfile test_prote.patmatmotifs
+# Report_format: dbmotif
+# Report_file: test_prote.patmatmotifs
+########################################
+
+#=======================================
+#
+# Sequence: 0     from: 1   to: 876
+# HitCount: 2
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 12
+Start = position 518 of sequence
+End = position 529 of sequence
+
+Motif = EGF_1
+
+AGGGGCTCTTTTTGAACATTCA
+     |          |
+   518          529
+
+Length = 9
+Start = position 421 of sequence
+End = position 429 of sequence
+
+Motif = 2FE2S_FER_1
+
+AGTTTCAGATCAACTCCAA
+     |       |
+   421       429
+
+
+#---------------------------------------
+#---------------------------------------
