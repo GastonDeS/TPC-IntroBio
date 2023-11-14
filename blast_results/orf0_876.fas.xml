@@ -1,0 +1,742 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.13.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>/root/swissprot</BlastOutput_db>
+  <BlastOutput_query-ID>Query_1</BlastOutput_query-ID>
+  <BlastOutput_query-def>0</BlastOutput_query-def>
+  <BlastOutput_query-len>291</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_1</Iteration_query-ID>
+  <Iteration_query-def>0</Iteration_query-def>
+  <Iteration_query-len>291</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|6207</Hit_id>
+  <Hit_def>Q13326.4 RecName: Full=Gamma-sarcoglycan; Short=Gamma-SG; AltName: Full=35 kDa dystrophin-associated glycoprotein; Short=35DAG [Homo sapiens]</Hit_def>
+  <Hit_accession>6207</Hit_accession>
+  <Hit_len>291</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>602.823</Hsp_bit-score>
+      <Hsp_score>1553</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>291</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>291</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>291</Hsp_identity>
+      <Hsp_positive>291</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>291</Hsp_align-len>
+      <Hsp_qseq>MVREQYTTATEGICIERPENQYVYKIGIYGWRKRCLYLFVLLLLIILVVNLALTIWILKVMWFSPAGMGHLCVTKDGLRLEGESEFLFPLYAKEIHSRVDSSLLLQSTQNVTVNARNSEGEVTGRLKVGPKMVEVQNQQFQINSNDGKPLFTVDEKEVVVGTDKLRVTGPEGALFEHSVETPLVRADPFQDLRLESPTRSLSMDAPRGVHIQAHAGKIEALSQMDILFHSSDGMLVLDAETVCLPKLVQGTWGPSGSSQSLYEICVCPDGKLYLSVAGVSTTCQEHNHICL</Hsp_qseq>
+      <Hsp_hseq>MVREQYTTATEGICIERPENQYVYKIGIYGWRKRCLYLFVLLLLIILVVNLALTIWILKVMWFSPAGMGHLCVTKDGLRLEGESEFLFPLYAKEIHSRVDSSLLLQSTQNVTVNARNSEGEVTGRLKVGPKMVEVQNQQFQINSNDGKPLFTVDEKEVVVGTDKLRVTGPEGALFEHSVETPLVRADPFQDLRLESPTRSLSMDAPRGVHIQAHAGKIEALSQMDILFHSSDGMLVLDAETVCLPKLVQGTWGPSGSSQSLYEICVCPDGKLYLSVAGVSTTCQEHNHICL</Hsp_hseq>
+      <Hsp_midline>MVREQYTTATEGICIERPENQYVYKIGIYGWRKRCLYLFVLLLLIILVVNLALTIWILKVMWFSPAGMGHLCVTKDGLRLEGESEFLFPLYAKEIHSRVDSSLLLQSTQNVTVNARNSEGEVTGRLKVGPKMVEVQNQQFQINSNDGKPLFTVDEKEVVVGTDKLRVTGPEGALFEHSVETPLVRADPFQDLRLESPTRSLSMDAPRGVHIQAHAGKIEALSQMDILFHSSDGMLVLDAETVCLPKLVQGTWGPSGSSQSLYEICVCPDGKLYLSVAGVSTTCQEHNHICL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|350599</Hit_id>
+  <Hit_def>Q8SQ72.1 RecName: Full=Gamma-sarcoglycan; Short=Gamma-SG [Canis lupus familiaris]</Hit_def>
+  <Hit_accession>350599</Hit_accession>
+  <Hit_len>291</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>529.635</Hsp_bit-score>
+      <Hsp_score>1363</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>291</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>291</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>270</Hsp_identity>
+      <Hsp_positive>278</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>291</Hsp_align-len>
+      <Hsp_qseq>MVREQYTTATEGICIERPENQYVYKIGIYGWRKRCLYLFVLLLLIILVVNLALTIWILKVMWFSPAGMGHLCVTKDGLRLEGESEFLFPLYAKEIHSRVDSSLLLQSTQNVTVNARNSEGEVTGRLKVGPKMVEVQNQQFQINSNDGKPLFTVDEKEVVVGTDKLRVTGPEGALFEHSVETPLVRADPFQDLRLESPTRSLSMDAPRGVHIQAHAGKIEALSQMDILFHSSDGMLVLDAETVCLPKLVQGTWGPSGSSQSLYEICVCPDGKLYLSVAGVSTTCQEHNHICL</Hsp_qseq>
+      <Hsp_hseq>MVREQYTTTTEGTHIQRPENQCVYKIGIYGWRKRCLYLFVLLLLIILLVNFALTIWILKVMWFSPTGMGHLRVTKDGLRLEGESEFLFPLYAKEIHSRVDSSLLLQSTQNVTVNARNSEGEVTGRLKVGPKMVEVQSQQFQINSKDGKPLFTVDEKEVVVGTDKLRVTGPEGALFEHSVETPLVRADPFQDLRLESPTRSLSMDAPKGVHIKAHAGKIEALSQMDIIFQSSDGMLVLDAETVCLPKLVQGTQGPAGSSQRLYEICVCPDGKLYLSVAGVGTTCHEHSHICL</Hsp_hseq>
+      <Hsp_midline>MVREQYTT TEG  I+RPENQ VYKIGIYGWRKRCLYLFVLLLLIIL+VN ALTIWILKVMWFSP GMGHL VTKDGLRLEGESEFLFPLYAKEIHSRVDSSLLLQSTQNVTVNARNSEGEVTGRLKVGPKMVEVQ+QQFQINS DGKPLFTVDEKEVVVGTDKLRVTGPEGALFEHSVETPLVRADPFQDLRLESPTRSLSMDAP+GVHI+AHAGKIEALSQMDI+F SSDGMLVLDAETVCLPKLVQGT GP+GSSQ LYEICVCPDGKLYLSVAGV TTC EH+HICL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|207927</Hit_id>
+  <Hit_def>Q0VCU7.1 RecName: Full=Gamma-sarcoglycan; Short=Gamma-SG [Bos taurus]</Hit_def>
+  <Hit_accession>207927</Hit_accession>
+  <Hit_len>291</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>483.411</Hsp_bit-score>
+      <Hsp_score>1243</Hsp_score>
+      <Hsp_evalue>2.54405e-173</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>291</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>291</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>244</Hsp_identity>
+      <Hsp_positive>267</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>291</Hsp_align-len>
+      <Hsp_qseq>MVREQYTTATEGICIERPENQYVYKIGIYGWRKRCLYLFVLLLLIILVVNLALTIWILKVMWFSPAGMGHLCVTKDGLRLEGESEFLFPLYAKEIHSRVDSSLLLQSTQNVTVNARNSEGEVTGRLKVGPKMVEVQNQQFQINSNDGKPLFTVDEKEVVVGTDKLRVTGPEGALFEHSVETPLVRADPFQDLRLESPTRSLSMDAPRGVHIQAHAGKIEALSQMDILFHSSDGMLVLDAETVCLPKLVQGTWGPSGSSQSLYEICVCPDGKLYLSVAGVSTTCQEHNHICL</Hsp_qseq>
+      <Hsp_hseq>MVREQYTTITEGTHIERPENQAVYKIGIYGWRKRCLYLFVLLLLIVLLVNFALTIWILRVMWFSPVGMGHLHVTADGLHLEGESEFLFPLYVKEIRSRVDSSLLLQSTQNVTMNARNTEGEVTGRLKVGPQMVEVQSQQFQIHSKDGKPLFTVDEEKVMVGTDKLRVTGPEGALFEHSVETPLVRPDPPQDLRLESPTRSLSMDAPKGIHIQAPAGKIEALTQMDIVLQSSDGTVVLDAETVCLPELALGSQGPAGSSQGLYEVCVCPDGKLYLSVAGMGTTCHEHSHLCL</Hsp_hseq>
+      <Hsp_midline>MVREQYTT TEG  IERPENQ VYKIGIYGWRKRCLYLFVLLLLI+L+VN ALTIWIL+VMWFSP GMGHL VT DGL LEGESEFLFPLY KEI SRVDSSLLLQSTQNVT+NARN+EGEVTGRLKVGP+MVEVQ+QQFQI+S DGKPLFTVDE++V+VGTDKLRVTGPEGALFEHSVETPLVR DP QDLRLESPTRSLSMDAP+G+HIQA AGKIEAL+QMDI+  SSDG +VLDAETVCLP+L  G+ GP+GSSQ LYE+CVCPDGKLYLSVAG+ TTC EH+H+CL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|281464</Hit_id>
+  <Hit_def>P82348.2 RecName: Full=Gamma-sarcoglycan; Short=Gamma-SG; AltName: Full=35 kDa dystrophin-associated glycoprotein; Short=35DAG [Mus musculus]</Hit_def>
+  <Hit_accession>281464</Hit_accession>
+  <Hit_len>291</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>476.093</Hsp_bit-score>
+      <Hsp_score>1224</Hsp_score>
+      <Hsp_evalue>2.15203e-170</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>291</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>291</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>243</Hsp_identity>
+      <Hsp_positive>266</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>291</Hsp_align-len>
+      <Hsp_qseq>MVREQYTTATEGICIERPENQYVYKIGIYGWRKRCLYLFVLLLLIILVVNLALTIWILKVMWFSPAGMGHLCVTKDGLRLEGESEFLFPLYAKEIHSRVDSSLLLQSTQNVTVNARNSEGEVTGRLKVGPKMVEVQNQQFQINSNDGKPLFTVDEKEVVVGTDKLRVTGPEGALFEHSVETPLVRADPFQDLRLESPTRSLSMDAPRGVHIQAHAGKIEALSQMDILFHSSDGMLVLDAETVCLPKLVQGTWGPSGSSQSLYEICVCPDGKLYLSVAGVSTTCQEHNHICL</Hsp_qseq>
+      <Hsp_hseq>MVREQYTTVTEGTHIERPENQHIYKIGIYGWRKRCLYLFVLLLLAILVVNLALTIWILKVMWFSPIGMGHLHVTADGLRLEGESEFLFPLYAKEIRSRVDSSLLLQSTQNVTVSARNSEGEVTGRVKVGAQMVEVQSQHFQINSEDGKPLFSAEEQDVVVGTGRLRVTGPEGALFEHSVETPLVRADPFQDLRLESPTRSLSMDAPRGVHVKANAGKLEALSQMDIILQSSEGVLVLDAETVGLTKLKQGTQGPAGSSNGFYEICACPDGKLYLSMAGEVTTCEEHSHVCL</Hsp_hseq>
+      <Hsp_midline>MVREQYTT TEG  IERPENQ++YKIGIYGWRKRCLYLFVLLLL ILVVNLALTIWILKVMWFSP GMGHL VT DGLRLEGESEFLFPLYAKEI SRVDSSLLLQSTQNVTV+ARNSEGEVTGR+KVG +MVEVQ+Q FQINS DGKPLF+ +E++VVVGT +LRVTGPEGALFEHSVETPLVRADPFQDLRLESPTRSLSMDAPRGVH++A+AGK+EALSQMDI+  SS+G+LVLDAETV L KL QGT GP+GSS   YEIC CPDGKLYLS+AG  TTC+EH+H+CL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|391382</Hit_id>
+  <Hit_def>O08597.4 RecName: Full=Gamma-sarcoglycan; Short=Gamma-SG; AltName: Full=35 kDa dystrophin-associated glycoprotein; Short=35DAG [Mesocricetus auratus]</Hit_def>
+  <Hit_accession>391382</Hit_accession>
+  <Hit_len>291</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>466.463</Hsp_bit-score>
+      <Hsp_score>1199</Hsp_score>
+      <Hsp_evalue>1.52465e-166</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>291</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>291</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>241</Hsp_identity>
+      <Hsp_positive>263</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>291</Hsp_align-len>
+      <Hsp_qseq>MVREQYTTATEGICIERPENQYVYKIGIYGWRKRCLYLFVLLLLIILVVNLALTIWILKVMWFSPAGMGHLCVTKDGLRLEGESEFLFPLYAKEIHSRVDSSLLLQSTQNVTVNARNSEGEVTGRLKVGPKMVEVQNQQFQINSNDGKPLFTVDEKEVVVGTDKLRVTGPEGALFEHSVETPLVRADPFQDLRLESPTRSLSMDAPRGVHIQAHAGKIEALSQMDILFHSSDGMLVLDAETVCLPKLVQGTWGPSGSSQSLYEICVCPDGKLYLSVAGVSTTCQEHNHICL</Hsp_qseq>
+      <Hsp_hseq>MAREQYTTVTEGTHIERPESQLVHRIGIYGWRKRCLYLFVLLLLIILVVNLALTIWILKVMWFSPIGMGHLHVTQDGLRLEGESEFLFPLYVKEIRSRVDSSLLLQSTQNVTVNARNSEGEVTGRVKVGAQMVEVQSQHFQIRSEDGKPLFTAEERGVMVDTGRLRVTGPEGAIFEHSVETPLVRADPFEDLRLESPTRSLSMDAPRGVHIKAHTGKMEALSQMDIILQSSDGVLVLDAETVGLPELEQGTPGPSGSSKGFYEICVCPDGKLYLSAADEATTCEEHSHICL</Hsp_hseq>
+      <Hsp_midline>M REQYTT TEG  IERPE+Q V++IGIYGWRKRCLYLFVLLLLIILVVNLALTIWILKVMWFSP GMGHL VT+DGLRLEGESEFLFPLY KEI SRVDSSLLLQSTQNVTVNARNSEGEVTGR+KVG +MVEVQ+Q FQI S DGKPLFT +E+ V+V T +LRVTGPEGA+FEHSVETPLVRADPF+DLRLESPTRSLSMDAPRGVHI+AH GK+EALSQMDI+  SSDG+LVLDAETV LP+L QGT GPSGSS+  YEICVCPDGKLYLS A  +TTC+EH+HICL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|432463</Hit_id>
+  <Hit_def>Q8BX51.1 RecName: Full=Zeta-sarcoglycan; Short=Zeta-SG; AltName: Full=ZSG1 [Mus musculus]</Hit_def>
+  <Hit_accession>432463</Hit_accession>
+  <Hit_len>311</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>322.783</Hsp_bit-score>
+      <Hsp_score>826</Hsp_score>
+      <Hsp_evalue>1.46999e-109</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>291</Hsp_query-to>
+      <Hsp_hit-from>14</Hsp_hit-from>
+      <Hsp_hit-to>309</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>172</Hsp_identity>
+      <Hsp_positive>223</Hsp_positive>
+      <Hsp_gaps>5</Hsp_gaps>
+      <Hsp_align-len>296</Hsp_align-len>
+      <Hsp_qseq>MVREQYTTATEGICIERPENQYVYKIGIYGWRKRCLYLFVLLLLIILVVNLALTIWILKVMWFSPAGMGHLCVTKDGLRLEGESEFLFPLYAKEIHSRVDSSLLLQSTQNVTVNARNSEGEVTGRLKVGPKMVEVQNQQFQIN-SNDGKPLFTVDEKEVVVGTDKLRVTGPEGALFEHSVETPLVRADPFQDLRLESPTRSLSMDAPRGVHIQAHAGKIEALSQMDILFHSSDGMLVLDAETVCLPKLVQGTWGPSGSS----QSLYEICVCPDGKLYLSVAGVSTTCQEHNHICL</Hsp_qseq>
+      <Hsp_hseq>MTREQYILATQQNNLPRPENAQLYPVGIYGWRKRCLYFFVLLLLVTMIVNLAMTIWILKVMNFTVDGMGNLRVTKKGIRLEGISEFLLPLYVKEIHSRKDSPLVLQSDRNVTVNARNHMGQLTGQLTVGAEAVEAQCKRFEVRASEDGRVLFSADEDEITIGAEKLKVTGTEGAVFGHSVETPHIRAEPSQDLRLESPTRSLKMEAPRGVQVSAAAGDFKATCRKELHLQSTEGEIFLNADSIRLGNLPIGSFSSSTSSSNSRQTVYELCVCPNGKLYLSPAGVGSTCQSSSSICL</Hsp_hseq>
+      <Hsp_midline>M REQY  AT+   + RPEN  +Y +GIYGWRKRCLY FVLLLL+ ++VNLA+TIWILKVM F+  GMG+L VTK G+RLEG SEFL PLY KEIHSR DS L+LQS +NVTVNARN  G++TG+L VG + VE Q ++F++  S DG+ LF+ DE E+ +G +KL+VTG EGA+F HSVETP +RA+P QDLRLESPTRSL M+APRGV + A AG  +A  + ++   S++G + L+A+++ L  L  G++  S SS    Q++YE+CVCP+GKLYLS AGV +TCQ  + ICL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|13706</Hit_id>
+  <Hit_def>Q96LD1.1 RecName: Full=Zeta-sarcoglycan; Short=Zeta-SG; AltName: Full=ZSG1 [Homo sapiens]</Hit_def>
+  <Hit_accession>13706</Hit_accession>
+  <Hit_len>299</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>321.242</Hsp_bit-score>
+      <Hsp_score>822</Hsp_score>
+      <Hsp_evalue>3.3359e-109</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>291</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>297</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>171</Hsp_identity>
+      <Hsp_positive>221</Hsp_positive>
+      <Hsp_gaps>6</Hsp_gaps>
+      <Hsp_align-len>297</Hsp_align-len>
+      <Hsp_qseq>MVREQYTTATEGICIERPENQYVYKIGIYGWRKRCLYLFVLLLLIILVVNLALTIWILKVMWFSPAGMGHLCVTKDGLRLEGESEFLFPLYAKEIHSRVDSSLLLQSTQNVTVNARNSEGEVTGRLKVGPKMVEVQNQQFQIN-SNDGKPLFTVDEKEVVVGTDKLRVTGPEGALFEHSVETPLVRADPFQDLRLESPTRSLSMDAPRGVHIQAHAGKIEALSQMDILFHSSDGMLVLDAETVCLPKLVQGTWGPSGSS-----QSLYEICVCPDGKLYLSVAGVSTTCQEHNHICL</Hsp_qseq>
+      <Hsp_hseq>MTREQYILATQQNNLPRTENAQLYPVGIYGWRKRCLYFFVLLLLVTMIVNLAMTIWILKVMNFTVDGMGNLRVTKKGIRLEGISEFLLPLYVKEIHSRKDSPLVLQSDRNVTVNARNHMGQLTGQLTIGADAVEAQCKRFEVRASEDGRVLFSADEDEITIGAEKLKVTGTEGAVFGHSVETPHIRAEPSQDLRLESPTRSLIMEAPRGVQVSAAAGDFKATCRKELHLQSTEGEIFLNAETIKLGNLPTGSFSSSSPSSSSSRQTVYELCVCPNGKLYLSPAGVGSTCQSSSNICL</Hsp_hseq>
+      <Hsp_midline>M REQY  AT+   + R EN  +Y +GIYGWRKRCLY FVLLLL+ ++VNLA+TIWILKVM F+  GMG+L VTK G+RLEG SEFL PLY KEIHSR DS L+LQS +NVTVNARN  G++TG+L +G   VE Q ++F++  S DG+ LF+ DE E+ +G +KL+VTG EGA+F HSVETP +RA+P QDLRLESPTRSL M+APRGV + A AG  +A  + ++   S++G + L+AET+ L  L  G++  S  S     Q++YE+CVCP+GKLYLS AGV +TCQ  ++ICL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|370262</Hit_id>
+  <Hit_def>P97281.1 RecName: Full=Delta-sarcoglycan; Short=Delta-SG; AltName: Full=35 kDa dystrophin-associated glycoprotein; Short=35DAG [Mesocricetus auratus]</Hit_def>
+  <Hit_accession>370262</Hit_accession>
+  <Hit_len>289</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>303.138</Hsp_bit-score>
+      <Hsp_score>775</Hsp_score>
+      <Hsp_evalue>3.31908e-102</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>291</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>289</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>152</Hsp_identity>
+      <Hsp_positive>212</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>291</Hsp_align-len>
+      <Hsp_qseq>MVREQYTTATEGICIERPENQYVYKIGIYGWRKRCLYLFVLLLLIILVVNLALTIWILKVMWFSPAGMGHLCVTKDGLRLEGESEFLFPLYAKEIHSRVDSSLLLQSTQNVTVNARNSEGEVTGRLKVGPKMVEVQNQQFQINSNDGKPLFTVDEKEVVVGTDKLRVTGPEGALFEHSVETPLVRADPFQDLRLESPTRSLSMDAPRGVHIQAHAGKIEALSQMDILFHSSDGMLVLDAETVCLPKLVQGTWGPSGSSQSLYEICVCPDGKLYLSVAGVSTTCQEHNHICL</Hsp_qseq>
+      <Hsp_hseq>MPQEQYSHHRS--TMPSSEGPHIYKVGIYGWRKRCLYFFVLLLMILILVNLAMTIWILKVMNFTIDGMGNLRITEKGLKLEGDSEFLQPLYAKEIQSRPGNALYFKSARNVTVNILNDQTKVLTRLVTGPKAVEAYGKKFEVKTVSGKLLFSADDNEVVVGAERLRVLGAEGTVFPKSIETPNVRADPFKELRLESPTRSLVMEAPKGVEINAEAGNMEATCRSELRLESKDGEIKLDAAKIKLPRLPRGSYTPTGTRQKVFEVCICANGRLFLSQAGTGSTCQINTSVCL</Hsp_hseq>
+      <Hsp_midline>M +EQY+       +   E  ++YK+GIYGWRKRCLY FVLLL+I+++VNLA+TIWILKVM F+  GMG+L +T+ GL+LEG+SEFL PLYAKEI SR  ++L  +S +NVTVN  N + +V  RL  GPK VE   ++F++ +  GK LF+ D+ EVVVG ++LRV G EG +F  S+ETP VRADPF++LRLESPTRSL M+AP+GV I A AG +EA  + ++   S DG + LDA  + LP+L +G++ P+G+ Q ++E+C+C +G+L+LS AG  +TCQ +  +CL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|307347</Hit_id>
+  <Hit_def>P82347.1 RecName: Full=Delta-sarcoglycan; Short=Delta-SG; AltName: Full=35 kDa dystrophin-associated glycoprotein; Short=35DAG [Mus musculus]</Hit_def>
+  <Hit_accession>307347</Hit_accession>
+  <Hit_len>289</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>301.982</Hsp_bit-score>
+      <Hsp_score>772</Hsp_score>
+      <Hsp_evalue>8.95865e-102</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>291</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>289</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>152</Hsp_identity>
+      <Hsp_positive>213</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>291</Hsp_align-len>
+      <Hsp_qseq>MVREQYTTATEGICIERPENQYVYKIGIYGWRKRCLYLFVLLLLIILVVNLALTIWILKVMWFSPAGMGHLCVTKDGLRLEGESEFLFPLYAKEIHSRVDSSLLLQSTQNVTVNARNSEGEVTGRLKVGPKMVEVQNQQFQINSNDGKPLFTVDEKEVVVGTDKLRVTGPEGALFEHSVETPLVRADPFQDLRLESPTRSLSMDAPRGVHIQAHAGKIEALSQMDILFHSSDGMLVLDAETVCLPKLVQGTWGPSGSSQSLYEICVCPDGKLYLSVAGVSTTCQEHNHICL</Hsp_qseq>
+      <Hsp_hseq>MPQEQYSHHRS--TMPSSEGPHIYKVGIYGWRKRCLYFFVLLLMILILVNLAMTIWILKVMNFTIDGMGNLRITEKGLKLEGDSEFLQPLYAKEIKSRPGNALYFKSARNVTVNILNDQTKVLTQLVTGPKAVEAYGKRFEVKTVSGKLLFSADDSEVVVGAERLRVLGAEGTVFPKSIETPNVRADPFKELRLESPTRSLVMEAPKGVEINAEAGNMEAICRSELRLESKDGEIKLDAAKIKLPRLPRGSYTPTGTRQKVFEVCVCANGRLFLSQAGTGSTCQINTSVCL</Hsp_hseq>
+      <Hsp_midline>M +EQY+       +   E  ++YK+GIYGWRKRCLY FVLLL+I+++VNLA+TIWILKVM F+  GMG+L +T+ GL+LEG+SEFL PLYAKEI SR  ++L  +S +NVTVN  N + +V  +L  GPK VE   ++F++ +  GK LF+ D+ EVVVG ++LRV G EG +F  S+ETP VRADPF++LRLESPTRSL M+AP+GV I A AG +EA+ + ++   S DG + LDA  + LP+L +G++ P+G+ Q ++E+CVC +G+L+LS AG  +TCQ +  +CL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|263764</Hit_id>
+  <Hit_def>Q92629.2 RecName: Full=Delta-sarcoglycan; Short=Delta-SG; AltName: Full=35 kDa dystrophin-associated glycoprotein; Short=35DAG [Homo sapiens]</Hit_def>
+  <Hit_accession>263764</Hit_accession>
+  <Hit_len>289</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>299.671</Hsp_bit-score>
+      <Hsp_score>766</Hsp_score>
+      <Hsp_evalue>8.9541e-101</Hsp_evalue>
+      <Hsp_query-from>23</Hsp_query-from>
+      <Hsp_query-to>291</Hsp_query-to>
+      <Hsp_hit-from>21</Hsp_hit-from>
+      <Hsp_hit-to>289</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>149</Hsp_identity>
+      <Hsp_positive>201</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>269</Hsp_align-len>
+      <Hsp_qseq>VYKIGIYGWRKRCLYLFVLLLLIILVVNLALTIWILKVMWFSPAGMGHLCVTKDGLRLEGESEFLFPLYAKEIHSRVDSSLLLQSTQNVTVNARNSEGEVTGRLKVGPKMVEVQNQQFQINSNDGKPLFTVDEKEVVVGTDKLRVTGPEGALFEHSVETPLVRADPFQDLRLESPTRSLSMDAPRGVHIQAHAGKIEALSQMDILFHSSDGMLVLDAETVCLPKLVQGTWGPSGSSQSLYEICVCPDGKLYLSVAGVSTTCQEHNHICL</Hsp_qseq>
+      <Hsp_hseq>VYKVGIYGWRKRCLYFFVLLLMILILVNLAMTIWILKVMNFTIDGMGNLRITEKGLKLEGDSEFLQPLYAKEIQSRPGNALYFKSARNVTVNILNDQTKVLTQLITGPKAVEAYGKKFEVKTVSGKLLFSADNNEVVVGAERLRVLGAEGTVFPKSIETPNVRADPFKELRLESPTRSLVMEAPKGVEINAEAGNMEATCRTELRLESKDGEIKLDAAKIRLPRLPHGSYTPTGTRQKVFEICVCANGRLFLSQAGAGSTCQINTSVCL</Hsp_hseq>
+      <Hsp_midline>VYK+GIYGWRKRCLY FVLLL+I+++VNLA+TIWILKVM F+  GMG+L +T+ GL+LEG+SEFL PLYAKEI SR  ++L  +S +NVTVN  N + +V  +L  GPK VE   ++F++ +  GK LF+ D  EVVVG ++LRV G EG +F  S+ETP VRADPF++LRLESPTRSL M+AP+GV I A AG +EA  + ++   S DG + LDA  + LP+L  G++ P+G+ Q ++EICVC +G+L+LS AG  +TCQ +  +CL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|294608</Hit_id>
+  <Hit_def>Q16585.1 RecName: Full=Beta-sarcoglycan; Short=Beta-SG; AltName: Full=43 kDa dystrophin-associated glycoprotein; Short=43DAG; AltName: Full=A3b [Homo sapiens]</Hit_def>
+  <Hit_accession>294608</Hit_accession>
+  <Hit_len>318</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.8398</Hsp_bit-score>
+      <Hsp_score>133</Hsp_score>
+      <Hsp_evalue>8.18215e-08</Hsp_evalue>
+      <Hsp_query-from>23</Hsp_query-from>
+      <Hsp_query-to>290</Hsp_query-to>
+      <Hsp_hit-from>52</Hsp_hit-from>
+      <Hsp_hit-to>314</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>61</Hsp_identity>
+      <Hsp_positive>115</Hsp_positive>
+      <Hsp_gaps>33</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>VYKIGIYGWRKRCLYLFVLLLLIILVVNLALTIWILKVMWFSPAGMGHLCVTKDG-LRLEGESEF--LFPLYAKEIHSRVDSSLLLQSTQNVTVNARNSEGEVTGRLKVGPKMVEVQNQQFQINSNDGKPLFTVDEKEVVVGTD----KLRVTGPEGALFEHSVETPLVRADPFQDLRLESPTRSLSMDAPRGVHIQAH------AGKIEALSQMDILFHSSDGMLVLDAETVCLPKLVQGTWGPSGSSQSLYEICVCPDGKLY-LSVAGVSTTCQEHNHIC</Hsp_qseq>
+      <Hsp_hseq>LHKTGLRGRKGNLAICVIILLFILAVINLIITLVIWAVIRIGPNGCDSMEFHESGLLRFKQVSDMGVIHPLYKSTVGGRRNENLVITGNNQPIV------------FQQGTTKLSVENNKTSITSDIGMQFFDPRTQNILFSTDYETHEFHLPSGVKSLNVQKASTERITSNATSDLNIKVDGRAI-VRGNEGVFIMGKTIEFHMGGNMELKAENSIILNGS-----VMVSTTRLPSSSSGDQLGSG-DWVRYKLCMCADGTLFKVQVTSQNMGCQISDNPC</Hsp_hseq>
+      <Hsp_midline>++K G+ G +       ++LL I+ V+NL +T+ I  V+   P G   +   + G LR +  S+   + PLY   +  R + +L++       V             + G   + V+N +  I S+ G   F    + ++  TD    +  +     +L      T  + ++   DL ++   R++ +    GV I          G +E  ++  I+ + S     +   T  LP    G    SG     Y++C+C DG L+ + V   +  CQ  ++ C</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|56745</Hit_id>
+  <Hit_def>Q5R9U1.1 RecName: Full=Beta-sarcoglycan; Short=Beta-SG [Pongo abelii]</Hit_def>
+  <Hit_accession>56745</Hit_accession>
+  <Hit_len>319</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.8398</Hsp_bit-score>
+      <Hsp_score>133</Hsp_score>
+      <Hsp_evalue>8.76153e-08</Hsp_evalue>
+      <Hsp_query-from>23</Hsp_query-from>
+      <Hsp_query-to>290</Hsp_query-to>
+      <Hsp_hit-from>53</Hsp_hit-from>
+      <Hsp_hit-to>315</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>61</Hsp_identity>
+      <Hsp_positive>115</Hsp_positive>
+      <Hsp_gaps>33</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>VYKIGIYGWRKRCLYLFVLLLLIILVVNLALTIWILKVMWFSPAGMGHLCVTKDG-LRLEGESEF--LFPLYAKEIHSRVDSSLLLQSTQNVTVNARNSEGEVTGRLKVGPKMVEVQNQQFQINSNDGKPLFTVDEKEVVVGTD----KLRVTGPEGALFEHSVETPLVRADPFQDLRLESPTRSLSMDAPRGVHIQAH------AGKIEALSQMDILFHSSDGMLVLDAETVCLPKLVQGTWGPSGSSQSLYEICVCPDGKLY-LSVAGVSTTCQEHNHIC</Hsp_qseq>
+      <Hsp_hseq>LHKTGLRGRKGNLAICVIILLFILAVINLIITLVIWAVIRIGPNGCDSMEFHESGLLRFKQVSDMGVIHPLYKSTVGGRRNENLVITGNNQPIV------------FQQGTTKLSVENNKTSITSDIGMQFFDPRTQNILFSTDYETHEFHLPSGVKSLNVQKASTERITSNATSDLNIKVDGRAI-VRGNEGVFIMGKTIEFHMGGNMELKAENSIILNGS-----VMVSTTRLPSSSSGDQLGSG-DWVRYKLCMCADGTLFKVQVTSQNMGCQISDNPC</Hsp_hseq>
+      <Hsp_midline>++K G+ G +       ++LL I+ V+NL +T+ I  V+   P G   +   + G LR +  S+   + PLY   +  R + +L++       V             + G   + V+N +  I S+ G   F    + ++  TD    +  +     +L      T  + ++   DL ++   R++ +    GV I          G +E  ++  I+ + S     +   T  LP    G    SG     Y++C+C DG L+ + V   +  CQ  ++ C</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|443976</Hit_id>
+  <Hit_def>Q28635.1 RecName: Full=Beta-sarcoglycan; Short=Beta-SG [Oryctolagus cuniculus]</Hit_def>
+  <Hit_accession>443976</Hit_accession>
+  <Hit_len>318</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>54.6842</Hsp_bit-score>
+      <Hsp_score>130</Hsp_score>
+      <Hsp_evalue>2.24924e-07</Hsp_evalue>
+      <Hsp_query-from>23</Hsp_query-from>
+      <Hsp_query-to>290</Hsp_query-to>
+      <Hsp_hit-from>52</Hsp_hit-from>
+      <Hsp_hit-to>314</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>61</Hsp_identity>
+      <Hsp_positive>114</Hsp_positive>
+      <Hsp_gaps>41</Hsp_gaps>
+      <Hsp_align-len>286</Hsp_align-len>
+      <Hsp_qseq>VYKIGIYGWRKRCLYLFVLLLLIILVVNLALTIWILKVMWFSPAGMGHLCVTKDG-LRLEGESEF--LFPLYAKEIHSRVDSSLLLQSTQNVTVNARNSEGEVTGRLKVGPKMVEVQNQQFQINSNDGKPLFTVDEKEVVVGTD----KLRVTGPEGALFEHSVETPLVRADPFQDLRLESPTRSLSMDAPRGVHIQAHAGKIEALSQMDILFHSSDGMLVLDAETVCLPK--LVQGTWGPSGSSQS--------LYEICVCPDGKLY-LSVAGVSTTCQEHNHIC</Hsp_qseq>
+      <Hsp_hseq>LHKTGLRGRKGNLAICVIVLLFLLAVINLIITLVIWAVIRIGPNGCDSMEFHESGLLRFKQVSDMGVIHPLYKSTVGGRRNENLVITGNNQPIV------------FQQGTTKLSVEKNKTSITSDIGMQFFDPRTQNILFSTDYETHEFHLPSGVKSLNVQKASTERITSNATSDLNIKVDGRAI-VRGNEGVFIMGKT----------IEFHMGGNMELKAENSIILNGTVMVSTTRLPSSSSADQLGGGDWVRYKLCMCADGTLFKVQVTGQNVGCQVSDNPC</Hsp_hseq>
+      <Hsp_midline>++K G+ G +       ++LL ++ V+NL +T+ I  V+   P G   +   + G LR +  S+   + PLY   +  R + +L++       V             + G   + V+  +  I S+ G   F    + ++  TD    +  +     +L      T  + ++   DL ++   R++ +    GV I              I FH    M +    ++ L    +V  T  PS SS           Y++C+C DG L+ + V G +  CQ  ++ C</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|120069</Hit_id>
+  <Hit_def>A6QP70.1 RecName: Full=Beta-sarcoglycan; Short=Beta-SG [Bos taurus]</Hit_def>
+  <Hit_accession>120069</Hit_accession>
+  <Hit_len>317</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>54.6842</Hsp_bit-score>
+      <Hsp_score>130</Hsp_score>
+      <Hsp_evalue>2.43368e-07</Hsp_evalue>
+      <Hsp_query-from>23</Hsp_query-from>
+      <Hsp_query-to>290</Hsp_query-to>
+      <Hsp_hit-from>51</Hsp_hit-from>
+      <Hsp_hit-to>313</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>58</Hsp_identity>
+      <Hsp_positive>114</Hsp_positive>
+      <Hsp_gaps>27</Hsp_gaps>
+      <Hsp_align-len>279</Hsp_align-len>
+      <Hsp_qseq>VYKIGIYGWRKRCLYLFVLLLLIILVVNLALTIWILKVMWFSPAGMGHLCVTKDG-LRLEGESEF--LFPLYAKEIHSRVDSSLLLQSTQNVTVNARNSEGEVTGRLKVGPKMVEVQNQQFQINSNDGKPLFTVDEKEVVVGTD----KLRVTGPEGALFEHSVETPLVRADPFQDLRLESPTRSLSMDAPRGVHIQAHAGKIEALSQMDILFHSSDGMLVLDAET-VCLPKLVQGTWGP--SGSSQSLYEICVCPDGKLY-LSVAGVSTTCQEHNHIC</Hsp_qseq>
+      <Hsp_hseq>LHKTGLRGRKGNLAICVIVLLFILAVINLIITLVIWAVIRIGPNGCDSMEFHESGLLRFKQVSDMGVIHPLYKSTVGGRRNENLVITGNNQPIV------------FQQGTTKLSVGKNKTSITSDTGMQFFDPRTQNILFSTDYETHEFHLPSGVKSLNVQKASTERITSNATSDLNIKVGGRAI-VRGNEGVFIMGKTIQFHMGGNMELKAENS---IILNGTVMVSTNRLPSSSSGDQFGGDDWVRYKLCMCADGTLFRVQVTGQNMGCQTSDNPC</Hsp_hseq>
+      <Hsp_midline>++K G+ G +       ++LL I+ V+NL +T+ I  V+   P G   +   + G LR +  S+   + PLY   +  R + +L++       V             + G   + V   +  I S+ G   F    + ++  TD    +  +     +L      T  + ++   DL ++   R++ +    GV I     +      M++   +S   ++L+    V   +L   + G    G     Y++C+C DG L+ + V G +  CQ  ++ C</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|177073</Hit_id>
+  <Hit_def>Q60538.1 RecName: Full=Beta-sarcoglycan; Short=Beta-SG; AltName: Full=43 kDa dystrophin-associated glycoprotein; Short=43DAG [Mesocricetus auratus]</Hit_def>
+  <Hit_accession>177073</Hit_accession>
+  <Hit_len>320</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>48.521</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>2.31664e-05</Hsp_evalue>
+      <Hsp_query-from>23</Hsp_query-from>
+      <Hsp_query-to>290</Hsp_query-to>
+      <Hsp_hit-from>54</Hsp_hit-from>
+      <Hsp_hit-to>316</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>54</Hsp_identity>
+      <Hsp_positive>114</Hsp_positive>
+      <Hsp_gaps>27</Hsp_gaps>
+      <Hsp_align-len>279</Hsp_align-len>
+      <Hsp_qseq>VYKIGIYGWRKRCLYLFVLLLLIILVVNLALTIWILKVMWFSPAGMGHLCVTKDG-LRLEGESEF--LFPLYAKEIHSRVDSSLLLQSTQNVTVNARNSEGEVTGRLKVGPKMVEVQNQQFQINSNDGKPLFTVDEKEVVVGTD----KLRVTGPEGALFEHSVETPLVRADPFQDLRLESPTRSLSMDAPRGVHIQAHAGKIEALSQMDILFHSSDGMLVLDAETVCLPKLVQGTWGPSGSSQSL---YEICVCPDGKLY-LSVAGVSTTCQEHNHIC</Hsp_qseq>
+      <Hsp_hseq>LHKTGLRGRKGNLAICVIVLLFILAVINLLITLVIWAVIRIGPNGCDSMEFHESGLLRFKQVSDMGVIHPLYKSTVGGRRNENLVITGNNQPIV------------FQQGTTKLSVEKNKTSITSDIGMQFFDPRTQNILFSTDYETHEFHLPSGVKSLNVQKASTERITSNATSDLNIKVDGRAI-VRGNEGVFIMGKTIEFHMGGNVEL---KAENSIILNGTVMVSPTRLPSSSSGDQSGGGDWVRYKLCMCADGTLFKVQVTGHNMGCQVADNPC</Hsp_hseq>
+      <Hsp_midline>++K G+ G +       ++LL I+ V+NL +T+ I  V+   P G   +   + G LR +  S+   + PLY   +  R + +L++       V             + G   + V+  +  I S+ G   F    + ++  TD    +  +     +L      T  + ++   DL ++   R++ +    GV I     +      +++    ++  ++L+   +  P  +  +     S       Y++C+C DG L+ + V G +  CQ  ++ C</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|138891</Hit_id>
+  <Hit_def>P82349.1 RecName: Full=Beta-sarcoglycan; Short=Beta-SG; AltName: Full=43 kDa dystrophin-associated glycoprotein; Short=43DAG [Mus musculus]</Hit_def>
+  <Hit_accession>138891</Hit_accession>
+  <Hit_len>320</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>47.7506</Hsp_bit-score>
+      <Hsp_score>112</Hsp_score>
+      <Hsp_evalue>3.78174e-05</Hsp_evalue>
+      <Hsp_query-from>23</Hsp_query-from>
+      <Hsp_query-to>290</Hsp_query-to>
+      <Hsp_hit-from>54</Hsp_hit-from>
+      <Hsp_hit-to>316</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>54</Hsp_identity>
+      <Hsp_positive>113</Hsp_positive>
+      <Hsp_gaps>27</Hsp_gaps>
+      <Hsp_align-len>279</Hsp_align-len>
+      <Hsp_qseq>VYKIGIYGWRKRCLYLFVLLLLIILVVNLALTIWILKVMWFSPAGMGHLCVTKDG-LRLEGESEF--LFPLYAKEIHSRVDSSLLLQSTQNVTVNARNSEGEVTGRLKVGPKMVEVQNQQFQINSNDGKPLFTVDEKEVVVGTD----KLRVTGPEGALFEHSVETPLVRADPFQDLRLESPTRSLSMDAPRGVHIQAHAGKIEALSQMDILFHSSDGMLVLDAETVCLPKLVQGTWGPSGSSQSL---YEICVCPDGKLY-LSVAGVSTTCQEHNHIC</Hsp_qseq>
+      <Hsp_hseq>LHKTGLRGRKGNLAICVIVLLFILAVINLLITLVIWAVIRIGPNGCDSMEFHESGLLRFKQVSDMGVIHPLYKSTVGGRRNENLVITGNNQPIV------------FQQGTTKLSVEKNKTSITSDIGMQFFDPRTHNILFSTDYETHEFHLPSGVKSLNVQKASTERITSNATSDLNIKVDGRAI-VRGNEGVFIMGKTIEFHMGGDVEL---KAENSIILNGTVMVSPTRLPSSSSGDQSGSGDWVRYKLCMCADGTLFKVQVTGHNMGCQVSDNPC</Hsp_hseq>
+      <Hsp_midline>++K G+ G +       ++LL I+ V+NL +T+ I  V+   P G   +   + G LR +  S+   + PLY   +  R + +L++       V             + G   + V+  +  I S+ G   F      ++  TD    +  +     +L      T  + ++   DL ++   R++ +    GV I     +      +++    ++  ++L+   +  P  +  +     S       Y++C+C DG L+ + V G +  CQ  ++ C</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|95416</Hit_id>
+  <Hit_def>P48259.1 RecName: Full=Probable transcriptional regulator ycf27; AltName: Full=OmpR-like protein [Cyanophora paradoxa]</Hit_def>
+  <Hit_accession>95416</Hit_accession>
+  <Hit_len>239</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.039</Hsp_bit-score>
+      <Hsp_score>79</Hsp_score>
+      <Hsp_evalue>0.524125</Hsp_evalue>
+      <Hsp_query-from>66</Hsp_query-from>
+      <Hsp_query-to>219</Hsp_query-to>
+      <Hsp_hit-from>83</Hsp_hit-from>
+      <Hsp_hit-to>215</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>37</Hsp_identity>
+      <Hsp_positive>67</Hsp_positive>
+      <Hsp_gaps>27</Hsp_gaps>
+      <Hsp_align-len>157</Hsp_align-len>
+      <Hsp_qseq>AGMGHLCVTKDGLRLEGESEFLFPLYAKEIHSRVDSSLLLQSTQNVTVNARNSEGEVTGRLKVGPKMVEVQNQQFQINSNDGKPLFTVDEKEVVVGTDKLRVTGPEGALFE---HSVETPLVRADPFQDLRLESPTRSLSMDAPRGVHIQAHAGKIE</Hsp_qseq>
+      <Hsp_hseq>TALGDVADRITGLELGADDYVVKPFSPKELEARIRS--LLRRTENPTLSTTSTNGE---NLQIGFLKIDINKRQ------------------VFKNGERIRLTGMEFSLLELLISKMGEPFSRAQILQEVWGYTPERHIDTRVV-DVHISRLRSKLE</Hsp_hseq>
+      <Hsp_midline>  +G +     GL L  +   + P   KE+ +R+ S  LL+ T+N T++  ++ GE    L++G   +++  +Q                  V    +++R+TG E +L E     +  P  RA   Q++   +P R +       VHI     K+E</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|474991</Hit_id>
+  <Hit_def>Q6BT58.2 RecName: Full=mRNA-capping enzyme subunit alpha; AltName: Full=GTP--RNA guanylyltransferase; Short=GTase; AltName: Full=mRNA guanylyltransferase [Debaryomyces hansenii CBS767]</Hit_def>
+  <Hit_accession>474991</Hit_accession>
+  <Hit_len>458</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>34.2686</Hsp_bit-score>
+      <Hsp_score>77</Hsp_score>
+      <Hsp_evalue>1.11584</Hsp_evalue>
+      <Hsp_query-from>188</Hsp_query-from>
+      <Hsp_query-to>241</Hsp_query-to>
+      <Hsp_hit-from>172</Hsp_hit-from>
+      <Hsp_hit-to>228</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>20</Hsp_identity>
+      <Hsp_positive>29</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>57</Hsp_align-len>
+      <Hsp_qseq>PFQDLRLESPTRSLSMDAPRGVHIQAHAGKIEA---LSQMDILFHSSDGMLVLDAET</Hsp_qseq>
+      <Hsp_hseq>PFDNFKRKNPEIVNAPDFPFKVSFKLMTSSYHADDVLSKMDQLFHESDGLIFTCAET</Hsp_hseq>
+      <Hsp_midline>PF + + ++P    + D P  V  +       A   LS+MD LFH SDG++   AET</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|264749</Hit_id>
+  <Hit_def>Q6PCP5.1 RecName: Full=Mitochondrial fission factor [Mus musculus]</Hit_def>
+  <Hit_accession>264749</Hit_accession>
+  <Hit_len>291</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>33.8834</Hsp_bit-score>
+      <Hsp_score>76</Hsp_score>
+      <Hsp_evalue>1.19697</Hsp_evalue>
+      <Hsp_query-from>122</Hsp_query-from>
+      <Hsp_query-to>203</Hsp_query-to>
+      <Hsp_hit-from>23</Hsp_hit-from>
+      <Hsp_hit-to>96</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>23</Hsp_identity>
+      <Hsp_positive>41</Hsp_positive>
+      <Hsp_gaps>8</Hsp_gaps>
+      <Hsp_align-len>82</Hsp_align-len>
+      <Hsp_qseq>VTGRLKVGPKMVEVQNQQFQINSNDGKPLFTVDEKEVVVGTDKLRVTGPEGALFEHSVETPLVRADPFQDLRLESPTRSLSM</Hsp_qseq>
+      <Hsp_hseq>VPEKLKVAPPNADLE-QEFQDGVPNASVIMQVPERIVVTGNN-------EDISFSRPADLDLIQSTPFKPLALKTPPRVLTL</Hsp_hseq>
+      <Hsp_midline>V  +LKV P   +++ Q+FQ    +   +  V E+ VV G +       E   F    +  L+++ PF+ L L++P R L++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|330557</Hit_id>
+  <Hit_def>P78587.1 RecName: Full=mRNA-capping enzyme subunit alpha; AltName: Full=GTP--RNA guanylyltransferase; Short=GTase; AltName: Full=mRNA guanylyltransferase [Candida albicans]</Hit_def>
+  <Hit_accession>330557</Hit_accession>
+  <Hit_len>449</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>33.4982</Hsp_bit-score>
+      <Hsp_score>75</Hsp_score>
+      <Hsp_evalue>2.14947</Hsp_evalue>
+      <Hsp_query-from>188</Hsp_query-from>
+      <Hsp_query-to>241</Hsp_query-to>
+      <Hsp_hit-from>173</Hsp_hit-from>
+      <Hsp_hit-to>229</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>21</Hsp_identity>
+      <Hsp_positive>31</Hsp_positive>
+      <Hsp_gaps>7</Hsp_gaps>
+      <Hsp_align-len>59</Hsp_align-len>
+      <Hsp_qseq>PFQDLRLESPTRSLSMDAPRGVHIQA-----HAGKIEALSQMDILFHSSDGMLVLDAET</Hsp_qseq>
+      <Hsp_hseq>PFDNFKKHNPDIVNSPEFPFKVGFKTMLTSYHADDV--LSKMDKLFHASDGLIYTCAET</Hsp_hseq>
+      <Hsp_midline>PF + +  +P    S + P  V  +      HA  +  LS+MD LFH+SDG++   AET</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|85055</Hit_id>
+  <Hit_def>Q3ZCD8.1 RecName: Full=Mitochondrial fission factor [Bos taurus]</Hit_def>
+  <Hit_accession>85055</Hit_accession>
+  <Hit_len>218</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>32.7278</Hsp_bit-score>
+      <Hsp_score>73</Hsp_score>
+      <Hsp_evalue>2.34988</Hsp_evalue>
+      <Hsp_query-from>122</Hsp_query-from>
+      <Hsp_query-to>203</Hsp_query-to>
+      <Hsp_hit-from>23</Hsp_hit-from>
+      <Hsp_hit-to>96</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>23</Hsp_identity>
+      <Hsp_positive>41</Hsp_positive>
+      <Hsp_gaps>8</Hsp_gaps>
+      <Hsp_align-len>82</Hsp_align-len>
+      <Hsp_qseq>VTGRLKVGPKMVEVQNQQFQINSNDGKPLFTVDEKEVVVGTDKLRVTGPEGALFEHSVETPLVRADPFQDLRLESPTRSLSM</Hsp_qseq>
+      <Hsp_hseq>VPEKLKVAPPNADLE-QGFQEGVSNASVIMQVPERIVVAGNN-------EDIPFSRPADLDLIQSTPFKPLALKTPPRVLTL</Hsp_hseq>
+      <Hsp_midline>V  +LKV P   +++ Q FQ   ++   +  V E+ VV G +       E   F    +  L+++ PF+ L L++P R L++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|235677</Hit_id>
+  <Hit_def>Q5R795.1 RecName: Full=Mitochondrial fission factor [Pongo abelii]</Hit_def>
+  <Hit_accession>235677</Hit_accession>
+  <Hit_len>218</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>32.3426</Hsp_bit-score>
+      <Hsp_score>72</Hsp_score>
+      <Hsp_evalue>3.17012</Hsp_evalue>
+      <Hsp_query-from>122</Hsp_query-from>
+      <Hsp_query-to>203</Hsp_query-to>
+      <Hsp_hit-from>23</Hsp_hit-from>
+      <Hsp_hit-to>96</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>23</Hsp_identity>
+      <Hsp_positive>40</Hsp_positive>
+      <Hsp_gaps>8</Hsp_gaps>
+      <Hsp_align-len>82</Hsp_align-len>
+      <Hsp_qseq>VTGRLKVGPKMVEVQNQQFQINSNDGKPLFTVDEKEVVVGTDKLRVTGPEGALFEHSVETPLVRADPFQDLRLESPTRSLSM</Hsp_qseq>
+      <Hsp_hseq>VPEKLKVAPPNADLE-QGFQEGVPNASVIMQVPERIVVAGNN-------EDVSFSRPADLDLIQSTPFKSLALKTPPRVLTL</Hsp_hseq>
+      <Hsp_midline>V  +LKV P   +++ Q FQ    +   +  V E+ VV G +       E   F    +  L+++ PF+ L L++P R L++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|315465</Hit_id>
+  <Hit_def>Q9GZY8.1 RecName: Full=Mitochondrial fission factor [Homo sapiens]</Hit_def>
+  <Hit_accession>315465</Hit_accession>
+  <Hit_len>342</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>32.7278</Hsp_bit-score>
+      <Hsp_score>73</Hsp_score>
+      <Hsp_evalue>3.50498</Hsp_evalue>
+      <Hsp_query-from>122</Hsp_query-from>
+      <Hsp_query-to>203</Hsp_query-to>
+      <Hsp_hit-from>49</Hsp_hit-from>
+      <Hsp_hit-to>122</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>23</Hsp_identity>
+      <Hsp_positive>40</Hsp_positive>
+      <Hsp_gaps>8</Hsp_gaps>
+      <Hsp_align-len>82</Hsp_align-len>
+      <Hsp_qseq>VTGRLKVGPKMVEVQNQQFQINSNDGKPLFTVDEKEVVVGTDKLRVTGPEGALFEHSVETPLVRADPFQDLRLESPTRSLSM</Hsp_qseq>
+      <Hsp_hseq>VPEKLKVAPPNADLE-QGFQEGVPNASVIMQVPERIVVAGNN-------EDVSFSRPADLDLIQSTPFKPLALKTPPRVLTL</Hsp_hseq>
+      <Hsp_midline>V  +LKV P   +++ Q FQ    +   +  V E+ VV G +       E   F    +  L+++ PF+ L L++P R L++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|114685</Hit_id>
+  <Hit_def>Q4KM98.1 RecName: Full=Mitochondrial fission factor [Rattus norvegicus]</Hit_def>
+  <Hit_accession>114685</Hit_accession>
+  <Hit_len>218</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>31.9574</Hsp_bit-score>
+      <Hsp_score>71</Hsp_score>
+      <Hsp_evalue>4.51471</Hsp_evalue>
+      <Hsp_query-from>122</Hsp_query-from>
+      <Hsp_query-to>203</Hsp_query-to>
+      <Hsp_hit-from>23</Hsp_hit-from>
+      <Hsp_hit-to>96</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>23</Hsp_identity>
+      <Hsp_positive>40</Hsp_positive>
+      <Hsp_gaps>8</Hsp_gaps>
+      <Hsp_align-len>82</Hsp_align-len>
+      <Hsp_qseq>VTGRLKVGPKMVEVQNQQFQINSNDGKPLFTVDEKEVVVGTDKLRVTGPEGALFEHSVETPLVRADPFQDLRLESPTRSLSM</Hsp_qseq>
+      <Hsp_hseq>VPEKLKVAPPNADLE-QGFQDGVPNASVIMQVPERIVVTGNN-------EDISFSRPADLDLIQSTPFKPLALKTPPRVLTL</Hsp_hseq>
+      <Hsp_midline>V  +LKV P   +++ Q FQ    +   +  V E+ VV G +       E   F    +  L+++ PF+ L L++P R L++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|295528</Hit_id>
+  <Hit_def>O60885.2 RecName: Full=Bromodomain-containing protein 4; AltName: Full=Protein HUNK1 [Homo sapiens]</Hit_def>
+  <Hit_accession>295528</Hit_accession>
+  <Hit_len>1362</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>32.3426</Hsp_bit-score>
+      <Hsp_score>72</Hsp_score>
+      <Hsp_evalue>5.68928</Hsp_evalue>
+      <Hsp_query-from>123</Hsp_query-from>
+      <Hsp_query-to>211</Hsp_query-to>
+      <Hsp_hit-from>1056</Hsp_hit-from>
+      <Hsp_hit-to>1146</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>26</Hsp_identity>
+      <Hsp_positive>43</Hsp_positive>
+      <Hsp_gaps>6</Hsp_gaps>
+      <Hsp_align-len>93</Hsp_align-len>
+      <Hsp_qseq>TGRLKVGPKMVEV---QNQQFQINSNDGKPLFTVDEKEVVVGTDKLRVTGPEGALFEHSVETPLVRADPFQ-DLRLESPTRSLSMDAPRGVHI</Hsp_qseq>
+      <Hsp_hseq>TGHLREAPSPLMIHSPQMSQFQSLTHQSPPQQNVQPKKQELRAASVVQPQPLVVVKEEKIHSPIIRSEPFSPSLRPEPPKHPESIKAP--VHL</Hsp_hseq>
+      <Hsp_midline>TG L+  P  + +   Q  QFQ  ++   P   V  K+  +    +    P   + E  + +P++R++PF   LR E P    S+ AP  VH+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>481837</Statistics_db-num>
+      <Statistics_db-len>183053940</Statistics_db-len>
+      <Statistics_hsp-len>116</Statistics_hsp-len>
+      <Statistics_eff-space>22253148400</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+

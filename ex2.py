@@ -4,7 +4,6 @@ from Bio import SeqIO
 import argparse
 import threading
 
-#me tira error de ssl connection. Check. 
 def online_blastn(file, args):
     try:
         filepath = os.path.join(args.input, file) if os.path.isdir(args.input) else args.input
@@ -38,7 +37,8 @@ def local_blastp(file, args):
         print(f"Saving results in {path}")
         f.write(f">{record.id}\n")
         f.write(seqprot.__str__())
-    command = f'blastp -query {path} -db /root/swissprot -outfmt 5 -out {args.output}/{file}.xml"'
+    command = f'blastp -query {path} -db /root/swissprot -outfmt 5 -out {os.path.join(args.output, f"{file}.xml")}'
+    
     try:
         os.system(command)
     except Exception as e:
