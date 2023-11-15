@@ -1,6 +1,6 @@
 ########################################
 # Program: patmatmotifs
-# Rundate: Tue 14 Nov 2023 23:46:41
+# Rundate: Tue 14 Nov 2023 23:49:35
 # Commandline: patmatmotifs
 #    -sequence orfs/NM_000231.3/orf0_876.fas
 #    -outfile test_prote.patmatmotifs

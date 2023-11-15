@@ -34,7 +34,7 @@ def get_motifs():
 if __name__ == '__main__':
 
     # Parse arguments 
-    parser = argparse.ArgumentParser(prog="ej5.py", description="Execute emboss methods")
+    parser = argparse.ArgumentParser(prog="ex4.py", description="Execute emboss methods")
     parser.add_argument("--input", help="input sequence file (.fas)", type=str,required=True, metavar="file.fas") 
     parser.add_argument("--output", help="path to save result", type=str, default="sequence", required=False, metavar="filename")
     parser.add_argument("--method", help="emboss method to execute:\n orf_prot finds ORF and saves them as protein sequences\n orf_nt saves them as nucleotide sequences\n translate translates sequence (.pep)\n motifs executes domain analysis (.patmatmotifs) ", type=str, required=True, choices=["orf_prot", "orf_nt", "translate", "motifs", "all"])

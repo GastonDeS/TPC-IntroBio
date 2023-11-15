@@ -77,7 +77,7 @@ python3 ./ex4.py --input orfs/NM_000231.3/orf0_876.fas --method orf_prot --outpu
 Run the fifth script by providing the path to a JSON file and sequence parameters:
 
 ```bash
-python3 ./ex5.py --json-path /path/to/json --sequence "example_sequence"
+python3 ./ex5.py --jsonpyh /path/to/json --sequence "example_sequence"
 ```
 
 Make sure to replace `/path/to/json` with the actual path to your JSON file and `"example_sequence"` with the desired sequence.
