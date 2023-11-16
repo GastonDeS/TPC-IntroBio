@@ -72,6 +72,12 @@ Execute the fourth script using the output from Example 1:
 python3 ./ex4.py --input orfs/NM_000231.3/orf0_876.fas --method orf_prot --output test_prote
 ```
 
+Los métodos posibles son: 
+   -  orf_prot para los ORF de proteinas 
+   -  orf_nt para los ORF de nucleotidos
+   -  translate para la traduccion
+   -  motifs
+
 ### Exercise 5
 
 Run the fifth script by providing the path to a JSON file and sequence parameters:
